@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05-KDT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52b25796-1999-4801-8d25-d437f8dc41c8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea849c31-d030-46e2-a462-2f0b9b70d969</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.G_SiteURL</defaultValue>
+      <description></description>
+      <id>ea849c31-d030-46e2-a462-2f0b9b70d969</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

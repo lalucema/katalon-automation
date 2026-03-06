@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4 - CURA Healthcare_Logout_Exercise 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f3a4f79-a02a-4eda-9dda-62cf6d4de04b</testCaseGuid>
+</TestCaseEntity>

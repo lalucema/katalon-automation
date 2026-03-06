@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5 - CURA Healthcare_Invalid_Login_Exercise 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ddeb8669-5009-49eb-8e64-d67642aea61e</testCaseGuid>
+</TestCaseEntity>

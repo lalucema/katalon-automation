@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-15 Verify successful posting of an object</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9586758d-cfab-428a-af83-05410207059d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22477030-1f6c-47c5-9b48-cb52e330f328</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a83042c-8a9f-4ed1-ba76-2ca30a34e502</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce501263-cac0-40d7-acac-d4c793f4e118</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cba2f57f-cc03-4684-8c5a-da494449c23d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>22477030-1f6c-47c5-9b48-cb52e330f328</id>
+      <masked>false</masked>
+      <name>expectedStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Account'</defaultValue>
+      <description></description>
+      <id>5a83042c-8a9f-4ed1-ba76-2ca30a34e502</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>2026</defaultValue>
+      <description></description>
+      <id>ce501263-cac0-40d7-acac-d4c793f4e118</id>
+      <masked>false</masked>
+      <name>year</name>
+   </variable>
+   <variable>
+      <defaultValue>'March'</defaultValue>
+      <description></description>
+      <id>cba2f57f-cc03-4684-8c5a-da494449c23d</id>
+      <masked>false</masked>
+      <name>month</name>
+   </variable>
+</TestCaseEntity>

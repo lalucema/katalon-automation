@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3 - CURA Healthcare_Login_Exercise 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70a2a1c7-8c65-4907-bd8b-b7bead244ddf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-16 Verify the newly created object is successfully saved in collection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e1e2533-e82b-483d-a72a-aaa85fdd0b4e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>961d468e-939a-4ff8-9770-3d5454b81956</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a462c8c-7cc9-4731-a690-038da8595ab7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e893e58-e464-4622-9839-e1acbd47477e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4878e8ca-6a7b-4622-a848-18a5234bc27b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>961d468e-939a-4ff8-9770-3d5454b81956</id>
+      <masked>false</masked>
+      <name>expectedStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Account'</defaultValue>
+      <description></description>
+      <id>5a462c8c-7cc9-4731-a690-038da8595ab7</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>2026</defaultValue>
+      <description></description>
+      <id>8e893e58-e464-4622-9839-e1acbd47477e</id>
+      <masked>false</masked>
+      <name>year</name>
+   </variable>
+   <variable>
+      <defaultValue>'March'</defaultValue>
+      <description></description>
+      <id>4878e8ca-6a7b-4622-a848-18a5234bc27b</id>
+      <masked>false</masked>
+      <name>month</name>
+   </variable>
+</TestCaseEntity>

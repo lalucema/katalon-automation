@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textHospitalReadmission</name>
+   <tag></tag>
+   <elementGuidId>ffed627b-eb55-4b14-9578-d78d8ed3ed3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hospital_readmission</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'hospital_readmission']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Yes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ef0b0383-e9db-4bad-b151-49edd1d819e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hospital_readmission</value>
+      <webElementGuid>b4dc013f-5b0f-4b98-8408-d314015eb95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>24c944e0-dc15-4221-a7b0-592feee7f3b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9ff1fdfb3cec7a8c713a532d4958fc09</value>
+      <webElementGuid>80874c21-64ca-40a7-ba0f-f007035999d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'hospital_readmission']</value>
+      <webElementGuid>39b2f9b7-9129-4774-a64e-e9d2e68ce56b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'hospital_readmission']</value>
+      <webElementGuid>d3cc9ae8-bcb8-44a5-9b7b-3263cbf3ceec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'hospital_readmission' and (text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>104ef4c9-eb83-41ca-9401-9234d7e1529e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

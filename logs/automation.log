@@ -1,0 +1,2270 @@
+[03-05-2026 01:52:42 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:52:42 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:52:42 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:53:38 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:53:46 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:53:50 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:57:00 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:57:04 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:57:08 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:58:57 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:59:01 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 01:59:04 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:05:33 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:05:38 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:05:39 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:05:42 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:05:46 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:05:49 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:06:35 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:06:41 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:06:41 pm][INFO] Select | Departure Dropdown (Options: [label:Philadelphia])
+[03-05-2026 02:06:42 pm][INFO] Select | Destination Dropdown (Options: [label:Rome])
+[03-05-2026 02:06:42 pm][ERROR] Failed to capture auto-screenshot: No such property: RunConfiguration for class: com.sample.utils.WebUIUtil
+[03-05-2026 02:06:42 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:06:44 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:06:44 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:06:50 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:06:51 pm][INFO] Select | Departure Dropdown (Options: [label:Mexico City])
+[03-05-2026 02:06:51 pm][INFO] Select | Destination Dropdown (Options: [label:Berlin])
+[03-05-2026 02:06:52 pm][ERROR] Failed to capture auto-screenshot: No such property: RunConfiguration for class: com.sample.utils.WebUIUtil
+[03-05-2026 02:06:52 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:06:54 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:06:54 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:06:58 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:06:58 pm][INFO] Select | Departure Dropdown (Options: [label:Portland])
+[03-05-2026 02:06:59 pm][INFO] Select | Destination Dropdown (Options: [label:New York])
+[03-05-2026 02:07:00 pm][ERROR] Failed to capture auto-screenshot: No such property: RunConfiguration for class: com.sample.utils.WebUIUtil
+[03-05-2026 02:07:00 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:07:01 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:07:47 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:07:51 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:07:52 pm][INFO] Select | Departure Dropdown (Options: [label:Philadelphia])
+[03-05-2026 02:07:52 pm][INFO] Select | Destination Dropdown (Options: [label:Rome])
+[03-05-2026 02:07:53 pm][ERROR] Failed to capture auto-screenshot: No signature of method: static com.kms.katalon.core.configuration.RunConfiguration.getExecutedTestCaseId() is applicable for argument types: () values: []
+[03-05-2026 02:07:53 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:07:55 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:07:55 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:08:00 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:08:01 pm][INFO] Select | Departure Dropdown (Options: [label:Mexico City])
+[03-05-2026 02:08:01 pm][INFO] Select | Destination Dropdown (Options: [label:Berlin])
+[03-05-2026 02:08:02 pm][ERROR] Failed to capture auto-screenshot: No signature of method: static com.kms.katalon.core.configuration.RunConfiguration.getExecutedTestCaseId() is applicable for argument types: () values: []
+[03-05-2026 02:08:02 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:08:04 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:08:04 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:08:08 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:08:08 pm][INFO] Select | Departure Dropdown (Options: [label:Portland])
+[03-05-2026 02:08:09 pm][INFO] Select | Destination Dropdown (Options: [label:New York])
+[03-05-2026 02:08:10 pm][ERROR] Failed to capture auto-screenshot: No signature of method: static com.kms.katalon.core.configuration.RunConfiguration.getExecutedTestCaseId() is applicable for argument types: () values: []
+[03-05-2026 02:08:10 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:08:12 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:09:07 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:09:11 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:09:12 pm][INFO] Select | Departure Dropdown (Options: [label:Philadelphia])
+[03-05-2026 02:09:13 pm][INFO] Select | Destination Dropdown (Options: [label:Rome])
+[03-05-2026 02:09:14 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_140913.png
+[03-05-2026 02:09:14 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:09:15 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:09:15 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:09:20 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:09:21 pm][INFO] Select | Departure Dropdown (Options: [label:Mexico City])
+[03-05-2026 02:09:21 pm][INFO] Select | Destination Dropdown (Options: [label:Berlin])
+[03-05-2026 02:09:22 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_140922.png
+[03-05-2026 02:09:22 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:09:24 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:09:24 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:09:28 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:09:29 pm][INFO] Select | Departure Dropdown (Options: [label:Portland])
+[03-05-2026 02:09:29 pm][INFO] Select | Destination Dropdown (Options: [label:New York])
+[03-05-2026 02:09:30 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_140930.png
+[03-05-2026 02:09:30 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:09:32 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:23:51 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:23:57 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:23:58 pm][INFO] Select | Departure Dropdown (Options: [label:])
+[03-05-2026 02:23:58 pm][ERROR] Failed to select option for 'Departure Dropdown'
+[03-05-2026 02:27:39 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:27:43 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:27:44 pm][INFO] Select | City Dropdown:  (Options: [label:])
+[03-05-2026 02:27:44 pm][ERROR] Failed to select option for 'City Dropdown: '
+[03-05-2026 02:33:41 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:33:45 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:33:46 pm][INFO] Select | City Dropdown:  (Options: [label:])
+[03-05-2026 02:33:46 pm][ERROR] Failed to select option for 'City Dropdown: '
+[03-05-2026 02:38:59 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:39:03 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:39:04 pm][INFO] Select | City Dropdown: Philadelphia (Options: [label:Philadelphia])
+[03-05-2026 02:39:04 pm][INFO] Select | City Dropdown: Rome (Options: [label:Rome])
+[03-05-2026 02:39:05 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_143905.png
+[03-05-2026 02:39:05 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:39:10 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:39:10 pm][INFO] Select | City Dropdown: Mexico City (Options: [label:Mexico City])
+[03-05-2026 02:39:11 pm][INFO] Select | City Dropdown: Berlin (Options: [label:Berlin])
+[03-05-2026 02:39:12 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_143911.png
+[03-05-2026 02:39:12 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:39:16 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:39:16 pm][INFO] Select | City Dropdown: Portland (Options: [label:Portland])
+[03-05-2026 02:39:17 pm][INFO] Select | City Dropdown: New York (Options: [label:New York])
+[03-05-2026 02:39:18 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_143918.png
+[03-05-2026 02:41:47 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:41:51 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:41:51 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:41:56 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:41:56 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:41:59 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:43:47 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:43:50 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:43:51 pm][INFO] Select | City Dropdown: Philadelphia (Options: [label:Philadelphia])
+[03-05-2026 02:43:52 pm][INFO] Select | City Dropdown: Rome (Options: [label:Rome])
+[03-05-2026 02:43:53 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144353.png
+[03-05-2026 02:43:53 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:43:57 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:43:58 pm][INFO] Select | City Dropdown: Mexico City (Options: [label:Mexico City])
+[03-05-2026 02:43:58 pm][INFO] Select | City Dropdown: Berlin (Options: [label:Berlin])
+[03-05-2026 02:43:59 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144359.png
+[03-05-2026 02:43:59 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:44:03 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:44:04 pm][INFO] Select | City Dropdown: Portland (Options: [label:Portland])
+[03-05-2026 02:44:05 pm][INFO] Select | City Dropdown: New York (Options: [label:New York])
+[03-05-2026 02:44:06 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144405.png
+[03-05-2026 02:47:15 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:47:19 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:47:19 pm][INFO] Select | City Dropdown: Philadelphia (Options: [label:Philadelphia])
+[03-05-2026 02:47:20 pm][INFO] Select | City Dropdown: Rome (Options: [label:Rome])
+[03-05-2026 02:47:21 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144721.png
+[03-05-2026 02:47:21 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:47:23 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:47:23 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 02:47:23 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144723.png
+[03-05-2026 02:47:23 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 02:47:25 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 02:47:25 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:47:29 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:47:30 pm][INFO] Select | City Dropdown: Mexico City (Options: [label:Mexico City])
+[03-05-2026 02:47:30 pm][INFO] Select | City Dropdown: Berlin (Options: [label:Berlin])
+[03-05-2026 02:47:31 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144731.png
+[03-05-2026 02:47:31 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:47:33 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:47:33 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 02:47:34 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144733.png
+[03-05-2026 02:47:34 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 02:47:35 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 02:47:35 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 02:47:39 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 02:47:40 pm][INFO] Select | City Dropdown: Portland (Options: [label:Portland])
+[03-05-2026 02:47:40 pm][INFO] Select | City Dropdown: New York (Options: [label:New York])
+[03-05-2026 02:47:41 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144741.png
+[03-05-2026 02:47:41 pm][INFO] Click | Find Flights Button
+[03-05-2026 02:47:43 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 02:47:43 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 02:47:44 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_144743.png
+[03-05-2026 02:47:44 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 02:47:45 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 03:29:45 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 03:29:49 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 03:29:50 pm][INFO] Select | City Dropdown: Philadelphia (Options: [value:Philadelphia])
+[03-05-2026 03:29:50 pm][INFO] Select | City Dropdown: Rome (Options: [value:Rome])
+[03-05-2026 03:29:51 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_152951.png
+[03-05-2026 03:29:51 pm][INFO] Click | Find Flights Button
+[03-05-2026 03:29:53 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 03:29:53 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 03:29:54 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_152953.png
+[03-05-2026 03:29:54 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 03:29:55 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 03:29:55 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 03:29:55 pm][INFO] Fill | Name = 'Punch'
+[03-05-2026 03:29:56 pm][INFO] Fill | Address = '123 Test Street'
+[03-05-2026 03:29:57 pm][INFO] Fill | City = 'Mandaluyong'
+[03-05-2026 03:29:58 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 03:29:58 pm][INFO] Fill | Zipcode = '1122'
+[03-05-2026 03:29:59 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 03:30:00 pm][INFO] Fill | Credit Card Number = '1234567890'
+[03-05-2026 03:30:01 pm][INFO] Fill | Month = 'March'
+[03-05-2026 03:30:01 pm][INFO] Fill | Year = '2030'
+[03-05-2026 03:30:02 pm][INFO] Fill | Name on Card = 'Punch Monkey'
+[03-05-2026 03:30:03 pm][INFO] Click | Remember Me
+[03-05-2026 03:30:04 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 03:30:04 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_153004.png
+[03-05-2026 03:30:04 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 03:30:06 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 03:30:06 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 03:30:10 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 03:30:10 pm][INFO] Select | City Dropdown: Mexico City (Options: [value:Mexico City])
+[03-05-2026 03:30:11 pm][INFO] Select | City Dropdown: Berlin (Options: [value:Berlin])
+[03-05-2026 03:30:12 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_153012.png
+[03-05-2026 03:30:12 pm][INFO] Click | Find Flights Button
+[03-05-2026 03:30:13 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 03:30:13 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 03:30:14 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_153014.png
+[03-05-2026 03:30:14 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 03:30:16 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 03:30:16 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 03:30:16 pm][INFO] Fill | Name = 'Bronny James'
+[03-05-2026 03:30:17 pm][INFO] Fill | Address = '234 Test Street'
+[03-05-2026 03:30:18 pm][INFO] Fill | City = 'Akron'
+[03-05-2026 03:30:18 pm][INFO] Fill | State = 'Ohio'
+[03-05-2026 03:30:19 pm][INFO] Fill | Zipcode = '1010'
+[03-05-2026 03:30:20 pm][INFO] Select | Card Type: Diner's Club (Options: [label:Diner's Club])
+[03-05-2026 03:30:20 pm][INFO] Fill | Credit Card Number = '34567890123'
+[03-05-2026 03:30:21 pm][INFO] Fill | Month = 'February'
+[03-05-2026 03:30:22 pm][INFO] Fill | Year = '2035'
+[03-05-2026 03:30:23 pm][INFO] Fill | Name on Card = 'Bronny James'
+[03-05-2026 03:30:23 pm][INFO] Click | Remember Me
+[03-05-2026 03:30:24 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 03:30:25 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_153024.png
+[03-05-2026 03:30:25 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 03:30:26 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 03:30:26 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 03:30:30 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 03:30:32 pm][INFO] Select | City Dropdown: Portland (Options: [value:Portland])
+[03-05-2026 03:30:32 pm][INFO] Select | City Dropdown: New York (Options: [value:New York])
+[03-05-2026 03:30:33 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_153033.png
+[03-05-2026 03:30:33 pm][INFO] Click | Find Flights Button
+[03-05-2026 03:30:35 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 03:30:35 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 03:30:35 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_153035.png
+[03-05-2026 03:30:35 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 03:30:37 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 03:30:37 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 03:30:37 pm][INFO] Fill | Name = 'Gorlock'
+[03-05-2026 03:30:38 pm][INFO] Fill | Address = '345 Test Street'
+[03-05-2026 03:30:39 pm][INFO] Fill | City = 'Manila'
+[03-05-2026 03:30:40 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 03:30:40 pm][INFO] Fill | Zipcode = '2121'
+[03-05-2026 03:30:41 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 03:30:42 pm][INFO] Fill | Credit Card Number = '6789012345'
+[03-05-2026 03:30:43 pm][INFO] Fill | Month = 'January'
+[03-05-2026 03:30:43 pm][INFO] Fill | Year = '2028'
+[03-05-2026 03:30:44 pm][INFO] Fill | Name on Card = 'Gorlock the Destroyer'
+[03-05-2026 03:30:45 pm][INFO] Click | Remember Me
+[03-05-2026 03:30:46 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 03:30:46 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_153046.png
+[03-05-2026 03:30:46 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 03:30:47 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 03:44:10 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 03:44:15 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 03:44:15 pm][INFO] Select | City Dropdown: Philadelphia (Options: [value:Philadelphia])
+[03-05-2026 03:44:16 pm][INFO] Select | City Dropdown: Rome (Options: [value:Rome])
+[03-05-2026 03:44:17 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154417.png
+[03-05-2026 03:44:17 pm][INFO] Click | Find Flights Button
+[03-05-2026 03:44:19 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 03:44:19 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 03:44:19 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154419.png
+[03-05-2026 03:44:19 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 03:44:21 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 03:44:21 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 03:44:21 pm][INFO] Fill | Name = 'Punch'
+[03-05-2026 03:44:22 pm][INFO] Fill | Address = '123 Test Street'
+[03-05-2026 03:44:23 pm][INFO] Fill | City = 'Mandaluyong'
+[03-05-2026 03:44:24 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 03:44:24 pm][INFO] Fill | Zipcode = '1122'
+[03-05-2026 03:44:25 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 03:44:26 pm][INFO] Fill | Credit Card Number = '1234567890'
+[03-05-2026 03:44:27 pm][INFO] Fill | Month = 'March'
+[03-05-2026 03:44:27 pm][INFO] Fill | Year = '2030'
+[03-05-2026 03:44:28 pm][INFO] Fill | Name on Card = 'Punch Monkey'
+[03-05-2026 03:44:29 pm][INFO] Click | Remember Me
+[03-05-2026 03:44:30 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 03:44:30 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154430.png
+[03-05-2026 03:44:30 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 03:44:31 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 03:44:31 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 03:44:32 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154432.png
+[03-05-2026 03:44:32 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 03:44:49 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 03:44:49 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 03:44:53 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 03:44:54 pm][INFO] Select | City Dropdown: Mexico City (Options: [value:Mexico City])
+[03-05-2026 03:44:54 pm][INFO] Select | City Dropdown: Berlin (Options: [value:Berlin])
+[03-05-2026 03:44:55 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154455.png
+[03-05-2026 03:44:55 pm][INFO] Click | Find Flights Button
+[03-05-2026 03:44:56 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 03:44:56 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 03:44:57 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154457.png
+[03-05-2026 03:44:57 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 03:44:59 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 03:44:59 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 03:44:59 pm][INFO] Fill | Name = 'Bronny James'
+[03-05-2026 03:45:00 pm][INFO] Fill | Address = '234 Test Street'
+[03-05-2026 03:45:01 pm][INFO] Fill | City = 'Akron'
+[03-05-2026 03:45:02 pm][INFO] Fill | State = 'Ohio'
+[03-05-2026 03:45:02 pm][INFO] Fill | Zipcode = '1010'
+[03-05-2026 03:45:03 pm][INFO] Select | Card Type: Diner's Club (Options: [label:Diner's Club])
+[03-05-2026 03:45:04 pm][INFO] Fill | Credit Card Number = '34567890123'
+[03-05-2026 03:45:05 pm][INFO] Fill | Month = 'February'
+[03-05-2026 03:45:05 pm][INFO] Fill | Year = '2035'
+[03-05-2026 03:45:06 pm][INFO] Fill | Name on Card = 'Bronny James'
+[03-05-2026 03:45:07 pm][INFO] Click | Remember Me
+[03-05-2026 03:45:08 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 03:45:08 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154508.png
+[03-05-2026 03:45:08 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 03:45:09 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 03:45:09 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 03:45:10 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154510.png
+[03-05-2026 03:45:10 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 03:45:26 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 03:45:26 pm][INFO] Open | https://blazedemo.com
+[03-05-2026 03:45:30 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 03:45:31 pm][INFO] Select | City Dropdown: Portland (Options: [value:Portland])
+[03-05-2026 03:45:32 pm][INFO] Select | City Dropdown: New York (Options: [value:New York])
+[03-05-2026 03:45:33 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154532.png
+[03-05-2026 03:45:33 pm][INFO] Click | Find Flights Button
+[03-05-2026 03:45:34 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 03:45:34 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 03:45:35 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154535.png
+[03-05-2026 03:45:35 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 03:45:36 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 03:45:36 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 03:45:37 pm][INFO] Fill | Name = 'Gorlock'
+[03-05-2026 03:45:37 pm][INFO] Fill | Address = '345 Test Street'
+[03-05-2026 03:45:38 pm][INFO] Fill | City = 'Manila'
+[03-05-2026 03:45:39 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 03:45:40 pm][INFO] Fill | Zipcode = '2121'
+[03-05-2026 03:45:40 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 03:45:41 pm][INFO] Fill | Credit Card Number = '6789012345'
+[03-05-2026 03:45:42 pm][INFO] Fill | Month = 'January'
+[03-05-2026 03:45:43 pm][INFO] Fill | Year = '2028'
+[03-05-2026 03:45:43 pm][INFO] Fill | Name on Card = 'Gorlock the Destroyer'
+[03-05-2026 03:45:44 pm][INFO] Click | Remember Me
+[03-05-2026 03:45:45 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 03:45:45 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154545.png
+[03-05-2026 03:45:45 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 03:45:47 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 03:45:47 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 03:45:47 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260305_154547.png
+[03-05-2026 03:45:47 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 03:46:04 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 04:18:52 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 04:18:57 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:18:59 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:19:00 pm][INFO] Scroll | Attempting to locate: Footer Copyright Notice
+[03-05-2026 04:19:01 pm][SUCCESS] Scroll | Success: reached Footer Copyright Notice
+[03-05-2026 04:19:01 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:19:01 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:19:02 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_161902.png
+[03-05-2026 04:19:02 pm][INFO] Click | Make Appointment Button
+[03-05-2026 04:19:03 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 04:19:03 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 04:19:03 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 04:20:17 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 04:20:21 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:20:23 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:20:23 pm][INFO] Scroll | Attempting to locate: Footer Copyright Notice
+[03-05-2026 04:20:25 pm][SUCCESS] Scroll | Success: reached Footer Copyright Notice
+[03-05-2026 04:20:25 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:20:25 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:20:26 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_162025.png
+[03-05-2026 04:20:26 pm][INFO] Click | Make Appointment Button
+[03-05-2026 04:20:27 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 04:20:27 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 04:20:27 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 04:24:20 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 04:24:24 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:24:26 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:24:26 pm][INFO] Scroll | Attempting to locate: Footer Copyright Notice
+[03-05-2026 04:24:28 pm][SUCCESS] Scroll | Success: reached Footer Copyright Notice
+[03-05-2026 04:24:28 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:24:28 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:24:29 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_162428.png
+[03-05-2026 04:24:29 pm][INFO] Click | Make Appointment Button
+[03-05-2026 04:24:30 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 04:24:30 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 04:24:30 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 04:24:53 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 04:25:00 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:25:00 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:25:00 pm][INFO] Scroll | Attempting to locate: Footer Copyright Notice
+[03-05-2026 04:25:02 pm][SUCCESS] Scroll | Success: reached Footer Copyright Notice
+[03-05-2026 04:25:02 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:25:02 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 04:25:03 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_162502.png
+[03-05-2026 04:25:03 pm][INFO] Click | Make Appointment Button
+[03-05-2026 04:25:04 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 05:07:12 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 05:07:19 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:07:19 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:07:19 pm][INFO] Scroll | Attempting to locate: Footer Copyright Notice
+[03-05-2026 05:07:21 pm][SUCCESS] Scroll | Success: reached Footer Copyright Notice
+[03-05-2026 05:07:21 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:07:21 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:07:21 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_170721.png
+[03-05-2026 05:07:21 pm][INFO] Click | Make Appointment Button
+[03-05-2026 05:07:23 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 05:09:24 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 05:09:30 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:09:31 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:09:31 pm][INFO] Scroll | Attempting to locate: Footer Copyright Notice
+[03-05-2026 05:09:32 pm][SUCCESS] Scroll | Success: reached Footer Copyright Notice
+[03-05-2026 05:09:32 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:09:33 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:09:34 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_170933.png
+[03-05-2026 05:09:34 pm][INFO] Click | Make Appointment Button
+[03-05-2026 05:09:35 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 05:11:26 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 05:11:31 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:11:33 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:11:33 pm][INFO] Scroll | Attempting to locate: Footer Copyright Notice
+[03-05-2026 05:11:35 pm][SUCCESS] Scroll | Success: reached Footer Copyright Notice
+[03-05-2026 05:11:35 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:11:35 pm][INFO] Wait | For element state 'visible'
+[03-05-2026 05:11:36 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_171135.png
+[03-05-2026 05:11:36 pm][INFO] Click | Make Appointment Button
+[03-05-2026 05:11:37 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 05:11:37 pm][INFO] Fill | Username Field = 'John Doe'
+[03-05-2026 05:11:38 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-05-2026 05:11:40 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_171139.png
+[03-05-2026 05:11:40 pm][INFO] Click | Login Button
+[03-05-2026 05:11:41 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 05:31:26 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 05:31:32 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 05:31:34 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 05:31:34 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 05:31:35 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 05:31:35 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 05:31:36 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 05:31:36 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 05:31:37 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 05:31:37 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 05:31:37 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 05:31:37 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 05:31:39 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 05:31:39 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_173139.png
+[03-05-2026 05:31:39 pm][INFO] Click | Make Appointment Button
+[03-05-2026 05:31:41 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 05:31:41 pm][INFO] Fill | Username Field = 'John Doe'
+[03-05-2026 05:31:42 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-05-2026 05:31:43 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_173142.png
+[03-05-2026 05:31:43 pm][INFO] Click | Login Button
+[03-05-2026 05:31:44 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 05:31:44 pm][INFO] Click | Hamburger
+[03-05-2026 05:31:45 pm][SUCCESS] Successfully clicked | Hamburger
+[03-05-2026 05:31:45 pm][INFO] Click | Logout
+[03-05-2026 05:31:47 pm][SUCCESS] Successfully clicked | Logout
+[03-05-2026 05:31:48 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_173147.png
+[03-05-2026 05:31:48 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 05:31:48 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 05:31:48 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 05:31:48 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 05:31:48 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 05:31:50 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 05:31:50 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 05:31:50 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 05:31:50 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 05:31:51 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 05:31:51 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 05:31:52 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 05:31:53 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_173152.png
+[03-05-2026 05:31:53 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 05:32:07 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:09:47 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:09:47 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:09:47 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:09:47 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:09:52 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:09:52 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:09:52 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:09:52 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:11:35 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:11:35 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:11:35 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:11:35 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:13:14 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:13:14 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:13:14 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:13:14 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:14:37 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:14:37 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:14:37 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:14:37 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:15:31 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:15:31 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:15:31 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:15:31 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:16:24 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:16:24 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:16:24 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:16:24 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:20:30 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:20:30 pm][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-05-2026 06:20:30 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:20:30 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:22:06 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 06:22:13 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:22:13 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:22:13 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:22:14 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:22:14 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:22:15 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:22:15 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:22:16 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:22:16 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:22:16 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:22:16 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:22:18 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:22:18 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_182218.png
+[03-05-2026 06:22:18 pm][INFO] Click | Make Appointment Button
+[03-05-2026 06:22:20 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 06:22:20 pm][INFO] Fill | Username Field = 'John Doe'
+[03-05-2026 06:22:21 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-05-2026 06:22:22 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_182221.png
+[03-05-2026 06:22:22 pm][INFO] Click | Login Button
+[03-05-2026 06:22:23 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:22:23 pm][INFO] Click | Hamburger
+[03-05-2026 06:22:24 pm][SUCCESS] Successfully clicked | Hamburger
+[03-05-2026 06:22:24 pm][INFO] Click | Logout
+[03-05-2026 06:22:26 pm][SUCCESS] Successfully clicked | Logout
+[03-05-2026 06:22:27 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_182226.png
+[03-05-2026 06:22:27 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:22:27 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:22:27 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:22:28 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:22:28 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:22:29 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:22:29 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:22:30 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:22:30 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:22:30 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:22:30 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:22:32 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:22:32 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260305_182232.png
+[03-05-2026 06:22:32 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:34:38 pm][INFO] Open | https://blazedemo.com/
+[03-05-2026 06:34:44 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 06:34:45 pm][INFO] Select | City Dropdown: Philadelphia (Options: [value:Philadelphia])
+[03-05-2026 06:34:45 pm][INFO] Select | City Dropdown: Rome (Options: [value:Rome])
+[03-05-2026 06:34:46 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183446.png
+[03-05-2026 06:34:46 pm][INFO] Click | Find Flights Button
+[03-05-2026 06:34:48 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 06:34:48 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 06:34:49 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183448.png
+[03-05-2026 06:34:49 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 06:34:50 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 06:34:50 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 06:34:50 pm][INFO] Fill | Name = 'Punch'
+[03-05-2026 06:34:51 pm][INFO] Fill | Address = '123 Test Street'
+[03-05-2026 06:34:52 pm][INFO] Fill | City = 'Mandaluyong'
+[03-05-2026 06:34:53 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 06:34:54 pm][INFO] Fill | Zipcode = '1122'
+[03-05-2026 06:34:54 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 06:34:55 pm][INFO] Fill | Credit Card Number = '1234567890'
+[03-05-2026 06:34:56 pm][INFO] Fill | Month = 'March'
+[03-05-2026 06:34:57 pm][INFO] Fill | Year = '2030'
+[03-05-2026 06:34:57 pm][INFO] Fill | Name on Card = 'Punch Monkey'
+[03-05-2026 06:34:58 pm][INFO] Click | Remember Me
+[03-05-2026 06:34:59 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 06:34:59 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183459.png
+[03-05-2026 06:34:59 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 06:35:01 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 06:35:01 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 06:35:02 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183501.png
+[03-05-2026 06:35:02 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:35:17 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:35:17 pm][INFO] Open | https://blazedemo.com/
+[03-05-2026 06:35:22 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 06:35:22 pm][INFO] Select | City Dropdown: Mexico City (Options: [value:Mexico City])
+[03-05-2026 06:35:23 pm][INFO] Select | City Dropdown: Berlin (Options: [value:Berlin])
+[03-05-2026 06:35:24 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183524.png
+[03-05-2026 06:35:24 pm][INFO] Click | Find Flights Button
+[03-05-2026 06:35:25 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 06:35:25 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 06:35:26 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183526.png
+[03-05-2026 06:35:26 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 06:35:27 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 06:35:27 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 06:35:28 pm][INFO] Fill | Name = 'Bronny James'
+[03-05-2026 06:35:29 pm][INFO] Fill | Address = '234 Test Street'
+[03-05-2026 06:35:30 pm][INFO] Fill | City = 'Akron'
+[03-05-2026 06:35:30 pm][INFO] Fill | State = 'Ohio'
+[03-05-2026 06:35:31 pm][INFO] Fill | Zipcode = '1010'
+[03-05-2026 06:35:32 pm][INFO] Select | Card Type: Diner's Club (Options: [label:Diner's Club])
+[03-05-2026 06:35:32 pm][INFO] Fill | Credit Card Number = '34567890123'
+[03-05-2026 06:35:33 pm][INFO] Fill | Month = 'February'
+[03-05-2026 06:35:34 pm][INFO] Fill | Year = '2035'
+[03-05-2026 06:35:35 pm][INFO] Fill | Name on Card = 'Bronny James'
+[03-05-2026 06:35:36 pm][INFO] Click | Remember Me
+[03-05-2026 06:35:37 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 06:35:37 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183537.png
+[03-05-2026 06:35:37 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 06:35:38 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 06:35:38 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 06:35:39 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183539.png
+[03-05-2026 06:35:39 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:35:54 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:35:55 pm][INFO] Open | https://blazedemo.com/
+[03-05-2026 06:35:57 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 06:35:58 pm][INFO] Select | City Dropdown: Portland (Options: [value:Portland])
+[03-05-2026 06:35:59 pm][INFO] Select | City Dropdown: New York (Options: [value:New York])
+[03-05-2026 06:36:00 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183600.png
+[03-05-2026 06:36:00 pm][INFO] Click | Find Flights Button
+[03-05-2026 06:36:01 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 06:36:01 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 06:36:02 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183602.png
+[03-05-2026 06:36:02 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 06:36:03 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 06:36:03 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 06:36:04 pm][INFO] Fill | Name = 'Gorlock'
+[03-05-2026 06:36:05 pm][INFO] Fill | Address = '345 Test Street'
+[03-05-2026 06:36:05 pm][INFO] Fill | City = 'Manila'
+[03-05-2026 06:36:06 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 06:36:07 pm][INFO] Fill | Zipcode = '2121'
+[03-05-2026 06:36:08 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 06:36:08 pm][INFO] Fill | Credit Card Number = '6789012345'
+[03-05-2026 06:36:09 pm][INFO] Fill | Month = 'January'
+[03-05-2026 06:36:10 pm][INFO] Fill | Year = '2028'
+[03-05-2026 06:36:11 pm][INFO] Fill | Name on Card = 'Gorlock the Destroyer'
+[03-05-2026 06:36:11 pm][INFO] Click | Remember Me
+[03-05-2026 06:36:12 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 06:36:13 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183612.png
+[03-05-2026 06:36:13 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 06:36:14 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 06:36:14 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 06:36:15 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_183614.png
+[03-05-2026 06:36:15 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:36:15 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:36:18 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 06:36:23 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:36:25 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:36:25 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:36:25 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:36:25 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:36:27 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:36:27 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:36:27 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:36:27 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:36:28 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:36:28 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:36:29 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:36:30 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183629.png
+[03-05-2026 06:36:30 pm][INFO] Click | Make Appointment Button
+[03-05-2026 06:36:31 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 06:36:31 pm][INFO] Fill | Username Field = 'John Doe'
+[03-05-2026 06:36:32 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-05-2026 06:36:33 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183633.png
+[03-05-2026 06:36:33 pm][INFO] Click | Login Button
+[03-05-2026 06:36:34 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:36:34 pm][INFO] Click | Hamburger
+[03-05-2026 06:36:36 pm][SUCCESS] Successfully clicked | Hamburger
+[03-05-2026 06:36:36 pm][INFO] Click | Logout
+[03-05-2026 06:36:37 pm][SUCCESS] Successfully clicked | Logout
+[03-05-2026 06:36:38 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183637.png
+[03-05-2026 06:36:38 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:36:38 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:36:38 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:36:39 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:36:39 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:36:40 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:36:40 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:36:41 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:36:41 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:36:41 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:36:41 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:36:43 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:36:43 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183643.png
+[03-05-2026 06:36:43 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:36:55 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:36:55 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 06:36:59 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:37:01 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:37:01 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:37:02 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:37:02 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:37:03 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:37:03 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:37:04 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:37:04 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:37:04 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:37:04 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:37:06 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:37:06 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183706.png
+[03-05-2026 06:37:06 pm][INFO] Click | Make Appointment Button
+[03-05-2026 06:37:08 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 06:37:08 pm][INFO] Fill | Username Field = 'John Doenut'
+[03-05-2026 06:37:09 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-05-2026 06:37:10 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183709.png
+[03-05-2026 06:37:10 pm][INFO] Click | Login Button
+[03-05-2026 06:37:11 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:37:11 pm][INFO] Assert | Waiting for 'Login failed! Please ensure the username and password are valid.' to be visible
+[03-05-2026 06:37:12 pm][SUCCESS] Assert | Success: 'Login failed! Please ensure the username and password are valid.' is visible
+[03-05-2026 06:37:12 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183712.png
+[03-05-2026 06:37:12 pm][INFO] Fill | Username Field = 'John Doe'
+[03-05-2026 06:37:13 pm][INFO] Fill | Password Field = 'ThisIsAPassword'
+[03-05-2026 06:37:14 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183714.png
+[03-05-2026 06:37:14 pm][INFO] Click | Login Button
+[03-05-2026 06:37:15 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:37:15 pm][INFO] Assert | Waiting for 'Login failed! Please ensure the username and password are valid.' to be visible
+[03-05-2026 06:37:16 pm][SUCCESS] Assert | Success: 'Login failed! Please ensure the username and password are valid.' is visible
+[03-05-2026 06:37:16 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183716.png
+[03-05-2026 06:37:16 pm][INFO] Fill | Username Field = 'John Doenut'
+[03-05-2026 06:37:17 pm][INFO] Fill | Password Field = 'ThisIsAPassword'
+[03-05-2026 06:37:18 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183718.png
+[03-05-2026 06:37:18 pm][INFO] Click | Login Button
+[03-05-2026 06:37:20 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:37:20 pm][INFO] Assert | Waiting for 'Login failed! Please ensure the username and password are valid.' to be visible
+[03-05-2026 06:37:20 pm][SUCCESS] Assert | Success: 'Login failed! Please ensure the username and password are valid.' is visible
+[03-05-2026 06:37:20 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_183720.png
+[03-05-2026 06:37:20 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:37:34 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:40:18 pm][INFO] Open | https://blazedemo.com/
+[03-05-2026 06:40:22 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 06:40:23 pm][INFO] Select | City Dropdown: Philadelphia (Options: [value:Philadelphia])
+[03-05-2026 06:40:23 pm][INFO] Select | City Dropdown: Rome (Options: [value:Rome])
+[03-05-2026 06:40:24 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184024.png
+[03-05-2026 06:40:24 pm][INFO] Click | Find Flights Button
+[03-05-2026 06:40:26 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 06:40:26 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 06:40:26 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184026.png
+[03-05-2026 06:40:26 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 06:40:28 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 06:40:28 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 06:40:28 pm][INFO] Fill | Name = 'Punch'
+[03-05-2026 06:40:29 pm][INFO] Fill | Address = '123 Test Street'
+[03-05-2026 06:40:30 pm][INFO] Fill | City = 'Mandaluyong'
+[03-05-2026 06:40:30 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 06:40:31 pm][INFO] Fill | Zipcode = '1122'
+[03-05-2026 06:40:32 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 06:40:33 pm][INFO] Fill | Credit Card Number = '1234567890'
+[03-05-2026 06:40:33 pm][INFO] Fill | Month = 'March'
+[03-05-2026 06:40:34 pm][INFO] Fill | Year = '2030'
+[03-05-2026 06:40:35 pm][INFO] Fill | Name on Card = 'Punch Monkey'
+[03-05-2026 06:40:36 pm][INFO] Click | Remember Me
+[03-05-2026 06:40:37 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 06:40:37 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184037.png
+[03-05-2026 06:40:37 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 06:40:38 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 06:40:38 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 06:40:39 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184039.png
+[03-05-2026 06:40:39 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:40:39 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:40:39 pm][INFO] Open | https://blazedemo.com/
+[03-05-2026 06:40:43 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 06:40:44 pm][INFO] Select | City Dropdown: Mexico City (Options: [value:Mexico City])
+[03-05-2026 06:40:44 pm][INFO] Select | City Dropdown: Berlin (Options: [value:Berlin])
+[03-05-2026 06:40:45 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184045.png
+[03-05-2026 06:40:45 pm][INFO] Click | Find Flights Button
+[03-05-2026 06:40:46 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 06:40:46 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 06:40:47 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184047.png
+[03-05-2026 06:40:47 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 06:40:48 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 06:40:48 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 06:40:49 pm][INFO] Fill | Name = 'Bronny James'
+[03-05-2026 06:40:50 pm][INFO] Fill | Address = '234 Test Street'
+[03-05-2026 06:40:50 pm][INFO] Fill | City = 'Akron'
+[03-05-2026 06:40:51 pm][INFO] Fill | State = 'Ohio'
+[03-05-2026 06:40:52 pm][INFO] Fill | Zipcode = '1010'
+[03-05-2026 06:40:53 pm][INFO] Select | Card Type: Diner's Club (Options: [label:Diner's Club])
+[03-05-2026 06:40:53 pm][INFO] Fill | Credit Card Number = '34567890123'
+[03-05-2026 06:40:54 pm][INFO] Fill | Month = 'February'
+[03-05-2026 06:40:55 pm][INFO] Fill | Year = '2035'
+[03-05-2026 06:40:56 pm][INFO] Fill | Name on Card = 'Bronny James'
+[03-05-2026 06:40:56 pm][INFO] Click | Remember Me
+[03-05-2026 06:40:57 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 06:40:57 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184057.png
+[03-05-2026 06:40:57 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 06:40:59 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 06:40:59 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 06:40:59 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184059.png
+[03-05-2026 06:40:59 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:41:16 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:41:16 pm][INFO] Open | https://blazedemo.com/
+[03-05-2026 06:41:20 pm][INFO] Wait | For element state 'Main Header'
+[03-05-2026 06:41:20 pm][INFO] Select | City Dropdown: Portland (Options: [value:Portland])
+[03-05-2026 06:41:21 pm][INFO] Select | City Dropdown: New York (Options: [value:New York])
+[03-05-2026 06:41:22 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184122.png
+[03-05-2026 06:41:22 pm][INFO] Click | Find Flights Button
+[03-05-2026 06:41:23 pm][SUCCESS] Successfully clicked | Find Flights Button
+[03-05-2026 06:41:23 pm][INFO] Wait | For element state 'Flight ID 234'
+[03-05-2026 06:41:24 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184124.png
+[03-05-2026 06:41:24 pm][INFO] Click | Choose This Flight Button
+[03-05-2026 06:41:25 pm][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-05-2026 06:41:25 pm][INFO] Wait | For element state 'Flight Details'
+[03-05-2026 06:41:26 pm][INFO] Fill | Name = 'Gorlock'
+[03-05-2026 06:41:26 pm][INFO] Fill | Address = '345 Test Street'
+[03-05-2026 06:41:27 pm][INFO] Fill | City = 'Manila'
+[03-05-2026 06:41:28 pm][INFO] Fill | State = 'NCR'
+[03-05-2026 06:41:29 pm][INFO] Fill | Zipcode = '2121'
+[03-05-2026 06:41:29 pm][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-05-2026 06:41:30 pm][INFO] Fill | Credit Card Number = '6789012345'
+[03-05-2026 06:41:31 pm][INFO] Fill | Month = 'January'
+[03-05-2026 06:41:32 pm][INFO] Fill | Year = '2028'
+[03-05-2026 06:41:32 pm][INFO] Fill | Name on Card = 'Gorlock the Destroyer'
+[03-05-2026 06:41:33 pm][INFO] Click | Remember Me
+[03-05-2026 06:41:34 pm][SUCCESS] Successfully clicked | Remember Me
+[03-05-2026 06:41:34 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184134.png
+[03-05-2026 06:41:34 pm][INFO] Click | Purchase Flight Button
+[03-05-2026 06:41:36 pm][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-05-2026 06:41:36 pm][INFO] Wait | For element state 'Confirmation Header'
+[03-05-2026 06:41:36 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___Blaze_20260305_184136.png
+[03-05-2026 06:41:36 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:41:36 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:41:39 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 06:41:43 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:41:45 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:41:45 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:41:45 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:41:45 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:41:47 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:41:47 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:41:47 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:41:47 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:41:48 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:41:48 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:41:49 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:41:50 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184149.png
+[03-05-2026 06:41:50 pm][INFO] Click | Make Appointment Button
+[03-05-2026 06:41:51 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 06:41:51 pm][INFO] Fill | Username Field = 'John Doe'
+[03-05-2026 06:41:52 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-05-2026 06:41:53 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184153.png
+[03-05-2026 06:41:53 pm][INFO] Click | Login Button
+[03-05-2026 06:41:55 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:41:55 pm][INFO] Click | Hamburger
+[03-05-2026 06:41:56 pm][SUCCESS] Successfully clicked | Hamburger
+[03-05-2026 06:41:56 pm][INFO] Click | Logout
+[03-05-2026 06:41:58 pm][SUCCESS] Successfully clicked | Logout
+[03-05-2026 06:41:58 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184158.png
+[03-05-2026 06:41:58 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:41:58 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:41:58 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:41:59 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:41:59 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:42:00 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:42:00 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:42:01 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:42:01 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:42:01 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:42:01 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:42:03 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:42:03 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184203.png
+[03-05-2026 06:42:03 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:42:16 pm][SUCCESS] Browser closed successfully.
+[03-05-2026 06:42:16 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-05-2026 06:42:20 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-05-2026 06:42:23 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-05-2026 06:42:23 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-05-2026 06:42:23 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-05-2026 06:42:23 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:42:25 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-05-2026 06:42:25 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-05-2026 06:42:25 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-05-2026 06:42:25 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-05-2026 06:42:26 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-05-2026 06:42:26 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-05-2026 06:42:27 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-05-2026 06:42:27 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184227.png
+[03-05-2026 06:42:27 pm][INFO] Click | Make Appointment Button
+[03-05-2026 06:42:29 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-05-2026 06:42:29 pm][INFO] Fill | Username Field = 'John Doenut'
+[03-05-2026 06:42:30 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-05-2026 06:42:31 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184231.png
+[03-05-2026 06:42:31 pm][INFO] Click | Login Button
+[03-05-2026 06:42:32 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:42:32 pm][INFO] Assert | Waiting for 'Login failed! Please ensure the username and password are valid.' to be visible
+[03-05-2026 06:42:33 pm][SUCCESS] Assert | Success: 'Login failed! Please ensure the username and password are valid.' is visible
+[03-05-2026 06:42:34 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184233.png
+[03-05-2026 06:42:34 pm][INFO] Fill | Username Field = 'John Doe'
+[03-05-2026 06:42:34 pm][INFO] Fill | Password Field = 'ThisIsAPassword'
+[03-05-2026 06:42:35 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184235.png
+[03-05-2026 06:42:35 pm][INFO] Click | Login Button
+[03-05-2026 06:42:37 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:42:37 pm][INFO] Assert | Waiting for 'Login failed! Please ensure the username and password are valid.' to be visible
+[03-05-2026 06:42:38 pm][SUCCESS] Assert | Success: 'Login failed! Please ensure the username and password are valid.' is visible
+[03-05-2026 06:42:38 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184238.png
+[03-05-2026 06:42:38 pm][INFO] Fill | Username Field = 'John Doenut'
+[03-05-2026 06:42:39 pm][INFO] Fill | Password Field = 'ThisIsAPassword'
+[03-05-2026 06:42:40 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184240.png
+[03-05-2026 06:42:40 pm][INFO] Click | Login Button
+[03-05-2026 06:42:42 pm][SUCCESS] Successfully clicked | Login Button
+[03-05-2026 06:42:42 pm][INFO] Assert | Waiting for 'Login failed! Please ensure the username and password are valid.' to be visible
+[03-05-2026 06:42:42 pm][SUCCESS] Assert | Success: 'Login failed! Please ensure the username and password are valid.' is visible
+[03-05-2026 06:42:43 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260305_184242.png
+[03-05-2026 06:42:43 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-05-2026 06:42:53 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 12:31:43 am][INFO] Open | null
+[03-06-2026 12:31:47 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:32:10 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:32:14 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:32:16 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:32:16 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:32:17 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:32:17 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:32:18 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:32:18 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:32:19 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:32:19 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:32:19 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:32:19 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:32:21 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:32:21 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_003221.png
+[03-06-2026 12:32:21 am][INFO] Click | Make Appointment Button
+[03-06-2026 12:32:23 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:32:23 am][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:32:24 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:32:25 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_003224.png
+[03-06-2026 12:32:25 am][INFO] Click | Login Button
+[03-06-2026 12:32:26 am][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:32:26 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:32:47 am][ERROR] Assert | Failed: 'Make Appointment' is NOT visible after 10 seconds
+[03-06-2026 12:32:47 am][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 12:32:47 am][SUCCESS] Browser closed successfully.
+[03-06-2026 12:34:02 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:34:07 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:34:09 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:34:09 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:34:10 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:34:10 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:34:11 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:34:11 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:34:12 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:34:12 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:34:12 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:34:12 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:34:14 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:34:14 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_003414.png
+[03-06-2026 12:34:14 am][INFO] Click | Make Appointment Button
+[03-06-2026 12:34:16 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:34:16 am][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:34:17 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:34:18 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_003417.png
+[03-06-2026 12:34:18 am][INFO] Click | Login Button
+[03-06-2026 12:34:19 am][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:34:19 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:34:20 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:34:20 am][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 12:34:21 am][INFO] Click | Apply for hospital readmission
+[03-06-2026 12:34:22 am][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 12:34:22 am][INFO] Click | None
+[03-06-2026 12:34:23 am][SUCCESS] Successfully clicked | None
+[03-06-2026 12:34:23 am][INFO] Click | Visit Date Calendar
+[03-06-2026 12:34:24 am][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 12:34:24 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:34:25 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:34:27 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:34:28 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:34:31 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:34:32 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:34:34 am][INFO] Click | Day: 6
+[03-06-2026 12:34:35 am][SUCCESS] Successfully clicked | Day: 6
+[03-06-2026 12:34:35 am][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:34:36 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_003436.png
+[03-06-2026 12:34:36 am][INFO] Click | Book Appointment Button
+[03-06-2026 12:34:38 am][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 12:34:38 am][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 12:34:42 am][SUCCESS] Browser closed successfully.
+[03-06-2026 12:52:49 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:52:54 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:54:56 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:55:02 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:55:02 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:55:02 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:55:03 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:55:03 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:55:04 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:55:04 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:55:05 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:55:05 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:55:05 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:55:05 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:55:07 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:55:07 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_005507.png
+[03-06-2026 12:55:07 am][INFO] Click | Make Appointment Button
+[03-06-2026 12:55:09 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:55:09 am][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:55:10 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:55:11 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_005510.png
+[03-06-2026 12:55:11 am][INFO] Click | Login Button
+[03-06-2026 12:55:12 am][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:55:12 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:55:13 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:55:13 am][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 12:55:14 am][INFO] Click | Apply for hospital readmission
+[03-06-2026 12:55:15 am][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 12:55:15 am][INFO] Click | None
+[03-06-2026 12:55:16 am][SUCCESS] Successfully clicked | None
+[03-06-2026 12:55:16 am][INFO] Click | Visit Date Calendar
+[03-06-2026 12:55:17 am][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 12:55:17 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:55:18 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:55:20 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:55:21 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:55:24 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:55:25 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:55:27 am][INFO] Click | Day: 3
+[03-06-2026 12:55:28 am][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 12:55:28 am][INFO] Click | Comment
+[03-06-2026 01:01:22 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 01:01:27 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 01:01:29 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 01:01:29 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 01:01:29 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 01:01:29 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:01:31 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:01:31 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 01:01:31 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 01:01:31 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 01:01:32 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 01:01:32 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 01:01:33 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 01:01:34 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_010133.png
+[03-06-2026 01:01:34 am][INFO] Click | Make Appointment Button
+[03-06-2026 01:01:35 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 01:01:35 am][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 01:01:36 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 01:01:37 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_010137.png
+[03-06-2026 01:01:37 am][INFO] Click | Login Button
+[03-06-2026 01:01:39 am][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 01:01:39 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 01:01:39 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 01:01:39 am][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 01:01:40 am][INFO] Click | Apply for hospital readmission
+[03-06-2026 01:01:41 am][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 01:01:41 am][INFO] Click | None
+[03-06-2026 01:01:42 am][SUCCESS] Successfully clicked | None
+[03-06-2026 01:01:42 am][INFO] Click | Visit Date Calendar
+[03-06-2026 01:01:43 am][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 01:01:43 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 01:01:44 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 01:01:47 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 01:01:48 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 01:01:50 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 01:01:51 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 01:01:53 am][INFO] Click | Day: 3
+[03-06-2026 01:01:54 am][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 01:01:54 am][INFO] Click | Comment
+[03-06-2026 01:01:55 am][SUCCESS] Successfully clicked | Comment
+[03-06-2026 01:01:55 am][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 01:01:57 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_010156.png
+[03-06-2026 01:01:57 am][INFO] Click | Book Appointment Button
+[03-06-2026 01:01:58 am][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 01:01:58 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 01:01:58 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 01:01:59 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_010158.png
+[03-06-2026 01:01:59 am][INFO] Click | Go To Homepage Button
+[03-06-2026 01:02:00 am][SUCCESS] Successfully clicked | Go To Homepage Button
+[03-06-2026 01:02:00 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 01:02:01 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 01:02:01 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 01:02:01 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 01:02:01 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:02:03 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:02:03 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 01:02:03 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 01:02:03 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 01:02:04 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 01:02:04 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 01:02:05 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 01:02:05 am][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 01:02:05 am][SUCCESS] Browser closed successfully.
+[03-06-2026 01:10:23 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 01:10:30 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 01:10:30 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 01:10:30 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 01:10:31 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 01:10:31 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:10:32 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:10:32 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 01:10:33 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 01:10:33 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 01:10:33 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 01:10:33 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 01:10:35 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 01:10:36 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011035.png
+[03-06-2026 01:10:36 am][INFO] Click | Make Appointment Button
+[03-06-2026 01:10:37 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 01:10:37 am][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 01:10:38 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 01:10:40 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011039.png
+[03-06-2026 01:10:40 am][INFO] Click | Login Button
+[03-06-2026 01:10:42 am][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 01:10:42 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 01:10:43 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 01:10:43 am][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 01:10:43 am][INFO] Click | Apply for hospital readmission
+[03-06-2026 01:10:44 am][ERROR] Failed to click 'Apply for hospital readmission'. Reason: Unable to wait for object to be present
+[03-06-2026 01:10:44 am][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 01:10:44 am][SUCCESS] Browser closed successfully.
+[03-06-2026 01:11:31 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 01:11:37 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 01:11:38 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 01:11:38 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 01:11:38 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 01:11:38 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:11:40 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:11:40 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 01:11:40 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 01:11:40 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 01:11:41 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 01:11:41 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 01:11:42 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 01:11:43 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011142.png
+[03-06-2026 01:11:43 am][INFO] Click | Make Appointment Button
+[03-06-2026 01:11:46 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 01:11:46 am][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 01:11:46 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 01:11:48 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011147.png
+[03-06-2026 01:11:48 am][INFO] Click | Login Button
+[03-06-2026 01:11:49 am][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 01:11:49 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 01:11:50 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 01:11:50 am][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 01:11:51 am][INFO] Click | Apply for hospital readmission
+[03-06-2026 01:11:52 am][ERROR] Failed to click 'Apply for hospital readmission'. Reason: Unable to wait for object to be present
+[03-06-2026 01:11:52 am][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 01:11:52 am][SUCCESS] Browser closed successfully.
+[03-06-2026 01:13:29 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 01:13:35 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 01:13:36 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 01:13:36 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 01:13:36 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 01:13:36 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:13:38 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:13:38 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 01:13:38 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 01:13:38 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 01:13:39 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 01:13:39 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 01:13:40 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 01:13:42 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011340.png
+[03-06-2026 01:13:42 am][INFO] Click | Make Appointment Button
+[03-06-2026 01:13:43 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 01:13:43 am][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 01:13:44 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 01:13:46 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011345.png
+[03-06-2026 01:13:46 am][INFO] Click | Login Button
+[03-06-2026 01:13:47 am][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 01:13:47 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 01:13:48 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 01:13:48 am][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 01:13:49 am][INFO] Click | Apply for hospital readmission
+[03-06-2026 01:13:50 am][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 01:13:50 am][INFO] Click | None
+[03-06-2026 01:13:51 am][SUCCESS] Successfully clicked | None
+[03-06-2026 01:13:51 am][INFO] Click | Visit Date Calendar
+[03-06-2026 01:13:52 am][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 01:13:52 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 01:13:53 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 01:13:55 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 01:13:56 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 01:13:59 am][INFO] Click | Calendar Next Month Button
+[03-06-2026 01:14:00 am][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 01:14:02 am][INFO] Click | Day: 3
+[03-06-2026 01:14:03 am][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 01:14:03 am][INFO] Click | Comment
+[03-06-2026 01:14:04 am][SUCCESS] Successfully clicked | Comment
+[03-06-2026 01:14:04 am][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 01:14:06 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011405.png
+[03-06-2026 01:14:06 am][INFO] Click | Book Appointment Button
+[03-06-2026 01:14:07 am][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 01:14:07 am][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 01:14:08 am][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 01:14:10 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_12_KDT_20260306_011408.png
+[03-06-2026 01:14:10 am][INFO] Click | Go To Homepage Button
+[03-06-2026 01:14:11 am][SUCCESS] Successfully clicked | Go To Homepage Button
+[03-06-2026 01:14:11 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 01:14:11 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 01:14:11 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 01:14:12 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 01:14:12 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:14:13 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 01:14:13 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 01:14:14 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 01:14:14 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 01:14:14 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 01:14:14 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 01:14:16 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 01:14:16 am][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 01:14:16 am][SUCCESS] Browser closed successfully.
+[03-06-2026 12:12:47 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:12:55 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:12:55 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:12:55 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:12:56 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:12:56 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:12:57 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:12:57 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:12:58 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:12:58 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:12:58 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:12:58 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:12:59 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:13:00 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121259.png
+[03-06-2026 12:13:00 pm][INFO] Click | Make Appointment Button
+[03-06-2026 12:13:01 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:13:01 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:13:02 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:13:03 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121303.png
+[03-06-2026 12:13:03 pm][INFO] Click | Login Button
+[03-06-2026 12:13:05 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:13:05 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:13:06 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:13:06 pm][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 12:13:06 pm][INFO] Click | Apply for hospital readmission
+[03-06-2026 12:13:07 pm][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 12:13:07 pm][INFO] Click | None
+[03-06-2026 12:13:08 pm][SUCCESS] Successfully clicked | None
+[03-06-2026 12:13:08 pm][INFO] Click | Visit Date Calendar
+[03-06-2026 12:13:09 pm][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 12:13:10 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:13:11 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:13:13 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:13:14 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:13:16 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:13:17 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:13:20 pm][INFO] Click | Day: 3
+[03-06-2026 12:13:21 pm][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 12:13:21 pm][INFO] Click | Comment
+[03-06-2026 12:13:22 pm][SUCCESS] Successfully clicked | Comment
+[03-06-2026 12:13:22 pm][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:13:23 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121323.png
+[03-06-2026 12:13:23 pm][INFO] Click | Book Appointment Button
+[03-06-2026 12:13:24 pm][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 12:13:24 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:13:25 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:13:25 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121325.png
+[03-06-2026 12:13:25 pm][INFO] Click | Go To Homepage Button
+[03-06-2026 12:13:27 pm][SUCCESS] Successfully clicked | Go To Homepage Button
+[03-06-2026 12:13:27 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 12:13:28 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 12:14:23 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:14:30 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:14:30 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:14:30 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:14:31 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:14:31 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:14:32 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:14:32 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:14:33 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:14:33 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:14:33 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:14:33 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:14:35 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:14:35 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121435.png
+[03-06-2026 12:14:35 pm][INFO] Click | Make Appointment Button
+[03-06-2026 12:14:36 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:14:36 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:14:37 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:14:39 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121438.png
+[03-06-2026 12:14:39 pm][INFO] Click | Login Button
+[03-06-2026 12:14:40 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:14:40 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:14:41 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:14:41 pm][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 12:14:41 pm][INFO] Click | Apply for hospital readmission
+[03-06-2026 12:14:42 pm][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 12:14:42 pm][INFO] Click | None
+[03-06-2026 12:14:43 pm][SUCCESS] Successfully clicked | None
+[03-06-2026 12:14:43 pm][INFO] Click | Visit Date Calendar
+[03-06-2026 12:14:44 pm][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 12:14:45 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:14:46 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:14:48 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:14:49 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:14:51 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:14:52 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:14:55 pm][INFO] Click | Day: 3
+[03-06-2026 12:14:56 pm][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 12:14:56 pm][INFO] Click | Comment
+[03-06-2026 12:14:57 pm][SUCCESS] Successfully clicked | Comment
+[03-06-2026 12:14:57 pm][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:14:58 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121458.png
+[03-06-2026 12:14:58 pm][INFO] Click | Book Appointment Button
+[03-06-2026 12:14:59 pm][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 12:14:59 pm][INFO] Click | Hamburger
+[03-06-2026 12:15:00 pm][SUCCESS] Successfully clicked | Hamburger
+[03-06-2026 12:15:01 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121500.png
+[03-06-2026 12:15:01 pm][INFO] Click | History
+[03-06-2026 12:15:02 pm][SUCCESS] Successfully clicked | History
+[03-06-2026 12:15:02 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 12:15:02 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 12:16:59 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:17:04 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:17:06 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:17:06 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:17:06 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:17:06 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:17:08 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:17:08 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:17:08 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:17:08 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:17:09 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:17:09 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:17:10 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:17:11 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121710.png
+[03-06-2026 12:17:11 pm][INFO] Click | Make Appointment Button
+[03-06-2026 12:17:12 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:17:12 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:17:13 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:17:14 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121714.png
+[03-06-2026 12:17:14 pm][INFO] Click | Login Button
+[03-06-2026 12:17:16 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:17:16 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:17:17 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:17:17 pm][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 12:17:17 pm][INFO] Click | Apply for hospital readmission
+[03-06-2026 12:17:18 pm][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 12:17:18 pm][INFO] Click | None
+[03-06-2026 12:17:19 pm][SUCCESS] Successfully clicked | None
+[03-06-2026 12:17:19 pm][INFO] Click | Visit Date Calendar
+[03-06-2026 12:17:20 pm][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 12:17:21 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:17:22 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:17:24 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:17:25 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:17:27 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:17:28 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:17:31 pm][INFO] Click | Day: 3
+[03-06-2026 12:17:32 pm][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 12:17:32 pm][INFO] Click | Comment
+[03-06-2026 12:17:33 pm][SUCCESS] Successfully clicked | Comment
+[03-06-2026 12:17:33 pm][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:17:34 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121734.png
+[03-06-2026 12:17:34 pm][INFO] Click | Book Appointment Button
+[03-06-2026 12:17:35 pm][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 12:17:35 pm][INFO] Click | Hamburger
+[03-06-2026 12:17:36 pm][SUCCESS] Successfully clicked | Hamburger
+[03-06-2026 12:17:37 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121736.png
+[03-06-2026 12:17:37 pm][INFO] Click | History
+[03-06-2026 12:17:38 pm][SUCCESS] Successfully clicked | History
+[03-06-2026 12:17:38 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 12:17:39 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 12:19:31 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:19:37 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:19:40 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:19:40 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:19:41 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:19:41 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:19:42 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:19:42 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:19:43 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:19:43 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:19:43 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:19:43 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:19:45 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:19:45 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121945.png
+[03-06-2026 12:19:45 pm][INFO] Click | Make Appointment Button
+[03-06-2026 12:19:46 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:19:46 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:19:47 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:19:49 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_121948.png
+[03-06-2026 12:19:49 pm][INFO] Click | Login Button
+[03-06-2026 12:19:51 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:19:51 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:19:52 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:19:52 pm][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 12:19:52 pm][INFO] Click | Apply for hospital readmission
+[03-06-2026 12:19:53 pm][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 12:19:53 pm][INFO] Click | None
+[03-06-2026 12:19:54 pm][SUCCESS] Successfully clicked | None
+[03-06-2026 12:19:54 pm][INFO] Click | Visit Date Calendar
+[03-06-2026 12:19:55 pm][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 12:19:56 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:19:57 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:19:59 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:20:00 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:20:02 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:20:03 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:20:05 pm][INFO] Click | Day: 3
+[03-06-2026 12:20:06 pm][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 12:20:06 pm][INFO] Click | Comment
+[03-06-2026 12:20:08 pm][SUCCESS] Successfully clicked | Comment
+[03-06-2026 12:20:08 pm][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:20:09 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122008.png
+[03-06-2026 12:20:09 pm][INFO] Click | Book Appointment Button
+[03-06-2026 12:20:10 pm][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 12:20:10 pm][INFO] Click | Hamburger
+[03-06-2026 12:20:11 pm][SUCCESS] Successfully clicked | Hamburger
+[03-06-2026 12:20:12 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122011.png
+[03-06-2026 12:20:12 pm][INFO] Click | History
+[03-06-2026 12:20:13 pm][SUCCESS] Successfully clicked | History
+[03-06-2026 12:20:13 pm][INFO] Assert | 'Visit Date' text exactly '03/06/2026'
+[03-06-2026 12:20:13 pm][INFO] Assert | Waiting for 'History' to be visible
+[03-06-2026 12:20:14 pm][SUCCESS] Assert | Success: 'History' is visible
+[03-06-2026 12:20:14 pm][INFO] Assert | 'Facility' text exactly 'Hongkong CURA Healthcare Center'
+[03-06-2026 12:20:14 pm][INFO] Assert | 'Hospital Readmission' text exactly 'Yes'
+[03-06-2026 12:20:14 pm][INFO] Assert | 'Healthcare Program' text exactly 'None'
+[03-06-2026 12:20:15 pm][INFO] Assert | 'Comment' text exactly 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:20:15 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122015.png
+[03-06-2026 12:20:15 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 12:20:16 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 12:21:39 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 12:21:44 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 12:21:46 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 12:21:46 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 12:21:47 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 12:21:47 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:21:48 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 12:21:48 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 12:21:49 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 12:21:49 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 12:21:49 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 12:21:49 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 12:21:51 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 12:21:51 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122151.png
+[03-06-2026 12:21:51 pm][INFO] Click | Make Appointment Button
+[03-06-2026 12:21:53 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 12:21:53 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 12:21:54 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 12:21:56 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122155.png
+[03-06-2026 12:21:56 pm][INFO] Click | Login Button
+[03-06-2026 12:21:57 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 12:21:57 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 12:21:58 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 12:21:58 pm][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 12:21:59 pm][INFO] Click | Apply for hospital readmission
+[03-06-2026 12:22:00 pm][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 12:22:00 pm][INFO] Click | None
+[03-06-2026 12:22:01 pm][SUCCESS] Successfully clicked | None
+[03-06-2026 12:22:01 pm][INFO] Click | Visit Date Calendar
+[03-06-2026 12:22:02 pm][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 12:22:02 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:03 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:05 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:06 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:09 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:10 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:12 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:13 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:15 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:16 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:18 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:19 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:22 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:23 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:25 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:26 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:28 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 12:22:29 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 12:22:31 pm][INFO] Click | Day: 25
+[03-06-2026 12:22:32 pm][SUCCESS] Successfully clicked | Day: 25
+[03-06-2026 12:22:32 pm][INFO] Click | Comment
+[03-06-2026 12:22:34 pm][SUCCESS] Successfully clicked | Comment
+[03-06-2026 12:22:34 pm][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:22:35 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122234.png
+[03-06-2026 12:22:35 pm][INFO] Click | Book Appointment Button
+[03-06-2026 12:22:37 pm][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 12:22:37 pm][INFO] Click | Hamburger
+[03-06-2026 12:22:38 pm][SUCCESS] Successfully clicked | Hamburger
+[03-06-2026 12:22:38 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122238.png
+[03-06-2026 12:22:38 pm][INFO] Click | History
+[03-06-2026 12:22:40 pm][SUCCESS] Successfully clicked | History
+[03-06-2026 12:22:40 pm][INFO] Assert | 'Visit Date' text exactly '25/12/2026'
+[03-06-2026 12:22:40 pm][INFO] Assert | Waiting for 'History' to be visible
+[03-06-2026 12:22:41 pm][SUCCESS] Assert | Success: 'History' is visible
+[03-06-2026 12:22:41 pm][INFO] Assert | 'Facility' text exactly 'Hongkong CURA Healthcare Center'
+[03-06-2026 12:22:41 pm][INFO] Assert | 'Hospital Readmission' text exactly 'Yes'
+[03-06-2026 12:22:41 pm][INFO] Assert | 'Healthcare Program' text exactly 'None'
+[03-06-2026 12:22:42 pm][INFO] Assert | 'Comment' text exactly 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 12:22:42 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_13_KDT_20260306_122242.png
+[03-06-2026 12:22:42 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 12:22:42 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 01:27:09 pm][INFO] Open | null
+[03-06-2026 01:27:09 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 01:27:09 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 01:30:58 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 01:30:59 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 01:31:43 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 01:31:43 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:08:54 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:08:54 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:09:11 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:09:11 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:14:37 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:14:37 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:17:51 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:17:51 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:18:43 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:18:43 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:19:30 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:19:30 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:21:13 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:21:13 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:21:59 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:21:59 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:23:02 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:23:02 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:23:35 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:23:35 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:24:35 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:24:35 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:29:07 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:29:07 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:29:43 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:29:43 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:31:19 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:31:19 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:32:33 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:32:33 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:34:16 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:34:16 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:34:17 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:34:17 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:34:17 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:34:17 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:34:17 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:34:17 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:34:17 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:34:17 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:34:17 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:34:17 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:36:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:36:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:36:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:36:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:36:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:36:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:36:09 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:36:09 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:36:09 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:36:09 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:36:09 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:36:09 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:37:20 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:37:20 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:37:21 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:37:21 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:37:21 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:37:21 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:37:21 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:37:21 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:37:21 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:37:21 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:37:21 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:37:21 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:40:58 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:40:58 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:40:58 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:40:58 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:40:58 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:40:58 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:40:58 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:40:58 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:40:58 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:40:58 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:40:58 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:40:58 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:41:38 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:41:38 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:41:38 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:41:38 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 02:41:39 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 02:41:39 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:30:22 pm][INFO] Response Received:
+[
+    {
+        "id": "1",
+        "name": "Google Pixel 6 Pro",
+        "data": {
+            "color": "Cloudy White",
+            "capacity": "128 GB"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Apple iPhone 12 Mini, 256GB, Blue",
+        "data": null
+    },
+    {
+        "id": "3",
+        "name": "Apple iPhone 12 Pro Max",
+        "data": {
+            "color": "Cloudy White",
+            "capacity GB": 512
+        }
+    },
+    {
+        "id": "4",
+        "name": "Apple iPhone 11, 64GB",
+        "data": {
+            "price": 389.99,
+            "color": "Purple"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Samsung Galaxy Z Fold2",
+        "data": {
+            "price": 689.99,
+            "color": "Brown"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Apple AirPods",
+        "data": {
+            "generation": "3rd",
+            "price": 120
+        }
+    },
+    {
+        "id": "7",
+        "name": "Apple MacBook Pro 16",
+        "data": {
+            "year": 2019,
+            "price": 1849.99,
+            "CPU model": "Intel Core i9",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "id": "8",
+        "name": "Apple Watch Series 8",
+        "data": {
+            "Strap Colour": "Elderberry",
+            "Case Size": "41mm"
+        }
+    },
+    {
+        "id": "9",
+        "name": "Beats Studio3 Wireless",
+        "data": {
+            "Color": "Red",
+            "Description": "High-performance wireless noise cancelling headphones"
+        }
+    },
+    {
+        "id": "10",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "64 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "11",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "254 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "12",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "419.99",
+            "Capacity": "64 GB"
+        }
+    },
+    {
+        "id": "13",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "519.99",
+            "Capacity": "256 GB"
+        }
+    }
+]
+[03-06-2026 03:30:22 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:30:22 pm][INFO] --- Data Verification for Index 0 ---
+[03-06-2026 03:30:22 pm][INFO] Extracted Name: Google Pixel 6 Pro (Expected: Google Pixel 6 Pro)
+[03-06-2026 03:30:22 pm][INFO] Extracted Color: Cloudy White (Expected: Cloudy White)
+[03-06-2026 03:30:22 pm][INFO] Extracted Capacity: 128 GB (Expected: 128 GB)
+[03-06-2026 03:30:22 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:30:22 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:38:03 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:38:03 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:38:36 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:38:36 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:39:17 pm][INFO] Response Body:
+{
+    "id": "ff8081819c5368bb019cc21624a632cc",
+    "name": "Test Account",
+    "createdAt": 1772782757031,
+    "data": {
+        "year": 2026,
+        "month": "March"
+    }
+}
+[03-06-2026 03:39:17 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:39:17 pm][INFO] Properties 'name', 'year', and 'month' verified successfully.
+[03-06-2026 03:39:17 pm][SUCCESS] Successfully captured and saved ID: ff8081819c5368bb019cc21624a632cc
+[03-06-2026 03:39:17 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:39:17 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:07 pm][INFO] Response Received:
+[
+    {
+        "id": "1",
+        "name": "Google Pixel 6 Pro",
+        "data": {
+            "color": "Cloudy White",
+            "capacity": "128 GB"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Apple iPhone 12 Mini, 256GB, Blue",
+        "data": null
+    },
+    {
+        "id": "3",
+        "name": "Apple iPhone 12 Pro Max",
+        "data": {
+            "color": "Cloudy White",
+            "capacity GB": 512
+        }
+    },
+    {
+        "id": "4",
+        "name": "Apple iPhone 11, 64GB",
+        "data": {
+            "price": 389.99,
+            "color": "Purple"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Samsung Galaxy Z Fold2",
+        "data": {
+            "price": 689.99,
+            "color": "Brown"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Apple AirPods",
+        "data": {
+            "generation": "3rd",
+            "price": 120
+        }
+    },
+    {
+        "id": "7",
+        "name": "Apple MacBook Pro 16",
+        "data": {
+            "year": 2019,
+            "price": 1849.99,
+            "CPU model": "Intel Core i9",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "id": "8",
+        "name": "Apple Watch Series 8",
+        "data": {
+            "Strap Colour": "Elderberry",
+            "Case Size": "41mm"
+        }
+    },
+    {
+        "id": "9",
+        "name": "Beats Studio3 Wireless",
+        "data": {
+            "Color": "Red",
+            "Description": "High-performance wireless noise cancelling headphones"
+        }
+    },
+    {
+        "id": "10",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "64 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "11",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "254 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "12",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "419.99",
+            "Capacity": "64 GB"
+        }
+    },
+    {
+        "id": "13",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "519.99",
+            "Capacity": "256 GB"
+        }
+    }
+]
+[03-06-2026 03:47:07 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:47:07 pm][INFO] --- Data Verification for Index 0 ---
+[03-06-2026 03:47:07 pm][INFO] Extracted Name: Google Pixel 6 Pro (Expected: Google Pixel 6 Pro)
+[03-06-2026 03:47:07 pm][INFO] Extracted Color: Cloudy White (Expected: Cloudy White)
+[03-06-2026 03:47:07 pm][INFO] Extracted Capacity: 128 GB (Expected: 128 GB)
+[03-06-2026 03:47:07 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:07 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:47:08 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:47:08 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:48:11 pm][INFO] Response Received:
+[
+    {
+        "id": "1",
+        "name": "Google Pixel 6 Pro",
+        "data": {
+            "color": "Cloudy White",
+            "capacity": "128 GB"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Apple iPhone 12 Mini, 256GB, Blue",
+        "data": null
+    },
+    {
+        "id": "3",
+        "name": "Apple iPhone 12 Pro Max",
+        "data": {
+            "color": "Cloudy White",
+            "capacity GB": 512
+        }
+    },
+    {
+        "id": "4",
+        "name": "Apple iPhone 11, 64GB",
+        "data": {
+            "price": 389.99,
+            "color": "Purple"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Samsung Galaxy Z Fold2",
+        "data": {
+            "price": 689.99,
+            "color": "Brown"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Apple AirPods",
+        "data": {
+            "generation": "3rd",
+            "price": 120
+        }
+    },
+    {
+        "id": "7",
+        "name": "Apple MacBook Pro 16",
+        "data": {
+            "year": 2019,
+            "price": 1849.99,
+            "CPU model": "Intel Core i9",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "id": "8",
+        "name": "Apple Watch Series 8",
+        "data": {
+            "Strap Colour": "Elderberry",
+            "Case Size": "41mm"
+        }
+    },
+    {
+        "id": "9",
+        "name": "Beats Studio3 Wireless",
+        "data": {
+            "Color": "Red",
+            "Description": "High-performance wireless noise cancelling headphones"
+        }
+    },
+    {
+        "id": "10",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "64 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "11",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "254 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "12",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "419.99",
+            "Capacity": "64 GB"
+        }
+    },
+    {
+        "id": "13",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "519.99",
+            "Capacity": "256 GB"
+        }
+    }
+]
+[03-06-2026 03:48:11 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:48:11 pm][INFO] --- Data Verification for Index 0 ---
+[03-06-2026 03:48:11 pm][INFO] Extracted Name: Google Pixel 6 Pro (Expected: Google Pixel 6 Pro)
+[03-06-2026 03:48:11 pm][INFO] Extracted Color: Cloudy White (Expected: Cloudy White)
+[03-06-2026 03:48:11 pm][INFO] Extracted Capacity: 128 GB (Expected: 128 GB)
+[03-06-2026 03:48:11 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:48:11 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:48:12 pm][INFO] Response Body:
+{
+    "id": "ff8081819c5368bb019cc21e4e3232e0",
+    "name": "Test Account",
+    "createdAt": 1772783291954,
+    "data": {
+        "year": 2026,
+        "month": "March"
+    }
+}
+[03-06-2026 03:48:12 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:48:12 pm][INFO] Properties 'name', 'year', and 'month' verified successfully.
+[03-06-2026 03:48:12 pm][SUCCESS] Successfully captured and saved ID: ff8081819c5368bb019cc21e4e3232e0
+[03-06-2026 03:48:12 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:48:12 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:48:12 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:48:12 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:48:12 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:48:12 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:48:12 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:48:12 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:48:12 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:48:12 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:50:23 pm][INFO] Response Received:
+[
+    {
+        "id": "1",
+        "name": "Google Pixel 6 Pro",
+        "data": {
+            "color": "Cloudy White",
+            "capacity": "128 GB"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Apple iPhone 12 Mini, 256GB, Blue",
+        "data": null
+    },
+    {
+        "id": "3",
+        "name": "Apple iPhone 12 Pro Max",
+        "data": {
+            "color": "Cloudy White",
+            "capacity GB": 512
+        }
+    },
+    {
+        "id": "4",
+        "name": "Apple iPhone 11, 64GB",
+        "data": {
+            "price": 389.99,
+            "color": "Purple"
+        }
+    },
+    {
+        "id": "5",
+        "name": "Samsung Galaxy Z Fold2",
+        "data": {
+            "price": 689.99,
+            "color": "Brown"
+        }
+    },
+    {
+        "id": "6",
+        "name": "Apple AirPods",
+        "data": {
+            "generation": "3rd",
+            "price": 120
+        }
+    },
+    {
+        "id": "7",
+        "name": "Apple MacBook Pro 16",
+        "data": {
+            "year": 2019,
+            "price": 1849.99,
+            "CPU model": "Intel Core i9",
+            "Hard disk size": "1 TB"
+        }
+    },
+    {
+        "id": "8",
+        "name": "Apple Watch Series 8",
+        "data": {
+            "Strap Colour": "Elderberry",
+            "Case Size": "41mm"
+        }
+    },
+    {
+        "id": "9",
+        "name": "Beats Studio3 Wireless",
+        "data": {
+            "Color": "Red",
+            "Description": "High-performance wireless noise cancelling headphones"
+        }
+    },
+    {
+        "id": "10",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "64 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "11",
+        "name": "Apple iPad Mini 5th Gen",
+        "data": {
+            "Capacity": "254 GB",
+            "Screen size": 7.9
+        }
+    },
+    {
+        "id": "12",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "419.99",
+            "Capacity": "64 GB"
+        }
+    },
+    {
+        "id": "13",
+        "name": "Apple iPad Air",
+        "data": {
+            "Generation": "4th",
+            "Price": "519.99",
+            "Capacity": "256 GB"
+        }
+    }
+]
+[03-06-2026 03:50:23 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:50:23 pm][INFO] --- Data Verification for Index 0 ---
+[03-06-2026 03:50:23 pm][INFO] Extracted Name: Google Pixel 6 Pro (Expected: Google Pixel 6 Pro)
+[03-06-2026 03:50:23 pm][INFO] Extracted Color: Cloudy White (Expected: Cloudy White)
+[03-06-2026 03:50:23 pm][INFO] Extracted Capacity: 128 GB (Expected: 128 GB)
+[03-06-2026 03:50:23 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:50:23 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:50:23 pm][INFO] Response Body:
+{
+    "id": "ff8081819c5368bb019cc220507d32e2",
+    "name": "Test Account",
+    "createdAt": 1772783423613,
+    "data": {
+        "year": 2026,
+        "month": "March"
+    }
+}
+[03-06-2026 03:50:23 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:50:23 pm][INFO] Properties 'name', 'year', and 'month' verified successfully.
+[03-06-2026 03:50:23 pm][SUCCESS] Successfully captured and saved ID: ff8081819c5368bb019cc220507d32e2
+[03-06-2026 03:50:23 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:50:23 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:50:23 pm][INFO] Response Body:
+{
+    "id": "ff8081819c5368bb019cc220507d32e2",
+    "name": "Test Account",
+    "data": {
+        "year": 2026,
+        "month": "March"
+    }
+}
+[03-06-2026 03:50:23 pm][INFO] Status Code 200 verified.
+[03-06-2026 03:50:23 pm][SUCCESS] Successfully captured and saved ID: ff8081819c5368bb019cc220507d32e2
+[03-06-2026 03:50:23 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:50:23 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:53:41 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 03:53:48 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 03:53:49 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 03:53:49 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 03:53:49 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 03:53:49 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:53:51 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:53:51 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 03:53:51 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 03:53:51 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 03:53:52 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 03:53:52 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 03:53:53 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 03:53:54 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155353.png
+[03-06-2026 03:53:54 pm][INFO] Click | Make Appointment Button
+[03-06-2026 03:53:55 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 03:53:55 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 03:53:56 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 03:53:57 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155357.png
+[03-06-2026 03:53:57 pm][INFO] Click | Login Button
+[03-06-2026 03:53:59 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 03:53:59 pm][INFO] Click | Hamburger
+[03-06-2026 03:54:00 pm][SUCCESS] Successfully clicked | Hamburger
+[03-06-2026 03:54:00 pm][INFO] Click | Logout
+[03-06-2026 03:54:01 pm][SUCCESS] Successfully clicked | Logout
+[03-06-2026 03:54:02 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155401.png
+[03-06-2026 03:54:02 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 03:54:02 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 03:54:02 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 03:54:03 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 03:54:03 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:54:04 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:54:04 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 03:54:05 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 03:54:05 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 03:54:05 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 03:54:05 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 03:54:07 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 03:54:07 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155407.png
+[03-06-2026 03:54:07 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:54:46 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 03:54:52 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 03:54:53 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 03:54:53 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 03:54:53 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 03:54:53 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:54:55 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:54:55 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 03:54:55 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 03:54:55 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 03:54:55 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 03:54:55 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 03:54:57 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 03:54:57 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155457.png
+[03-06-2026 03:54:57 pm][INFO] Click | Make Appointment Button
+[03-06-2026 03:54:59 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 03:54:59 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 03:55:00 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 03:55:01 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155501.png
+[03-06-2026 03:55:01 pm][INFO] Click | Login Button
+[03-06-2026 03:55:02 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 03:55:02 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 03:55:03 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 03:55:03 pm][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 03:55:04 pm][INFO] Click | Apply for hospital readmission
+[03-06-2026 03:55:05 pm][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 03:55:05 pm][INFO] Click | None
+[03-06-2026 03:55:06 pm][SUCCESS] Successfully clicked | None
+[03-06-2026 03:55:06 pm][INFO] Click | Visit Date Calendar
+[03-06-2026 03:55:07 pm][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 03:55:07 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:55:08 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:55:11 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:55:12 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:55:14 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:55:15 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:55:17 pm][INFO] Click | Day: 3
+[03-06-2026 03:55:18 pm][SUCCESS] Successfully clicked | Day: 3
+[03-06-2026 03:55:18 pm][INFO] Click | Comment
+[03-06-2026 03:55:19 pm][SUCCESS] Successfully clicked | Comment
+[03-06-2026 03:55:19 pm][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 03:55:20 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155520.png
+[03-06-2026 03:55:20 pm][INFO] Click | Book Appointment Button
+[03-06-2026 03:55:22 pm][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 03:55:22 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 03:55:22 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 03:55:23 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155522.png
+[03-06-2026 03:55:23 pm][INFO] Click | Go To Homepage Button
+[03-06-2026 03:55:24 pm][SUCCESS] Successfully clicked | Go To Homepage Button
+[03-06-2026 03:55:24 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 03:55:25 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 03:55:25 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 03:55:25 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 03:55:25 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:55:26 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:55:26 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 03:55:27 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 03:55:27 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 03:55:27 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 03:55:27 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 03:55:29 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 03:55:29 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:55:29 pm][SUCCESS] Browser closed successfully.
+[03-06-2026 03:55:29 pm][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-06-2026 03:55:36 pm][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-06-2026 03:55:36 pm][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-06-2026 03:55:36 pm][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-06-2026 03:55:37 pm][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-06-2026 03:55:37 pm][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:55:38 pm][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-06-2026 03:55:38 pm][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-06-2026 03:55:38 pm][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-06-2026 03:55:38 pm][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-06-2026 03:55:39 pm][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-06-2026 03:55:39 pm][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-06-2026 03:55:40 pm][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-06-2026 03:55:41 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155540.png
+[03-06-2026 03:55:41 pm][INFO] Click | Make Appointment Button
+[03-06-2026 03:55:42 pm][SUCCESS] Successfully clicked | Make Appointment Button
+[03-06-2026 03:55:42 pm][INFO] Fill | Username Field = 'John Doe'
+[03-06-2026 03:55:43 pm][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-06-2026 03:55:44 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155544.png
+[03-06-2026 03:55:44 pm][INFO] Click | Login Button
+[03-06-2026 03:55:46 pm][SUCCESS] Successfully clicked | Login Button
+[03-06-2026 03:55:46 pm][INFO] Assert | Waiting for 'Make Appointment' to be visible
+[03-06-2026 03:55:46 pm][SUCCESS] Assert | Success: 'Make Appointment' is visible
+[03-06-2026 03:55:46 pm][INFO] Select | Facility: Hongkong CURA Healthcare Center (Options: [value:Hongkong CURA Healthcare Center])
+[03-06-2026 03:55:47 pm][INFO] Click | Apply for hospital readmission
+[03-06-2026 03:55:48 pm][SUCCESS] Successfully clicked | Apply for hospital readmission
+[03-06-2026 03:55:48 pm][INFO] Click | None
+[03-06-2026 03:55:49 pm][SUCCESS] Successfully clicked | None
+[03-06-2026 03:55:49 pm][INFO] Click | Visit Date Calendar
+[03-06-2026 03:55:50 pm][SUCCESS] Successfully clicked | Visit Date Calendar
+[03-06-2026 03:55:50 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:55:51 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:55:53 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:55:54 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:55:57 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:55:58 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:56:00 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:56:01 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:56:03 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:56:04 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:56:06 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:56:07 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:56:10 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:56:11 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:56:13 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:56:14 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:56:16 pm][INFO] Click | Calendar Next Month Button
+[03-06-2026 03:56:17 pm][SUCCESS] Successfully clicked | Calendar Next Month Button
+[03-06-2026 03:56:19 pm][INFO] Click | Day: 25
+[03-06-2026 03:56:20 pm][SUCCESS] Successfully clicked | Day: 25
+[03-06-2026 03:56:20 pm][INFO] Click | Comment
+[03-06-2026 03:56:21 pm][SUCCESS] Successfully clicked | Comment
+[03-06-2026 03:56:21 pm][INFO] Fill | Comment = 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 03:56:23 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155622.png
+[03-06-2026 03:56:23 pm][INFO] Click | Book Appointment Button
+[03-06-2026 03:56:24 pm][SUCCESS] Successfully clicked | Book Appointment Button
+[03-06-2026 03:56:24 pm][INFO] Click | Hamburger
+[03-06-2026 03:56:25 pm][SUCCESS] Successfully clicked | Hamburger
+[03-06-2026 03:56:25 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155625.png
+[03-06-2026 03:56:25 pm][INFO] Click | History
+[03-06-2026 03:56:27 pm][SUCCESS] Successfully clicked | History
+[03-06-2026 03:56:27 pm][INFO] Assert | 'Visit Date' text exactly '25/12/2026'
+[03-06-2026 03:56:27 pm][INFO] Assert | Waiting for 'History' to be visible
+[03-06-2026 03:56:28 pm][SUCCESS] Assert | Success: 'History' is visible
+[03-06-2026 03:56:28 pm][INFO] Assert | 'Facility' text exactly 'Hongkong CURA Healthcare Center'
+[03-06-2026 03:56:28 pm][INFO] Assert | 'Hospital Readmission' text exactly 'Yes'
+[03-06-2026 03:56:28 pm][INFO] Assert | 'Healthcare Program' text exactly 'None'
+[03-06-2026 03:56:28 pm][INFO] Assert | 'Comment' text exactly 'Vivamus vel velit non odio commodo semper. Maecenas sagittis magna id facilisis tincidunt. Donec aliquet ex magna, et malesuada odio pulvinar vel. Nunc quis molestie leo. Sed elit tortor, fermentum ac auctor nec, auctor eu ante. Nunc blandit purus vel turpis vulputate, ut tristique lorem vestibulum. Morbi vitae arcu eu eros blandit auctor.'
+[03-06-2026 03:56:29 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155629.png
+[03-06-2026 03:56:29 pm][INFO] Attempting to close browser and terminate WebDriver session...
+[03-06-2026 03:56:29 pm][SUCCESS] Browser closed successfully.

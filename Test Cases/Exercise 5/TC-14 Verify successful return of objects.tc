@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-14 Verify successful return of objects</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>130ac23f-9e59-4731-b856-3554cd53180b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>24a940eb-0679-479d-a4a6-2ce47aeaa282</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>706d68b9-a495-43ef-b794-09b0771f1c71</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9f490d8-8ef2-492d-a25d-14e8d20df6b0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>edb9477b-3131-442a-9827-488827315f56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6594c143-07d2-4def-8967-e3cb16e9e4e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>24a940eb-0679-479d-a4a6-2ce47aeaa282</id>
+      <masked>false</masked>
+      <name>expectedStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'Google Pixel 6 Pro'</defaultValue>
+      <description></description>
+      <id>706d68b9-a495-43ef-b794-09b0771f1c71</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cloudy White'</defaultValue>
+      <description></description>
+      <id>f9f490d8-8ef2-492d-a25d-14e8d20df6b0</id>
+      <masked>false</masked>
+      <name>color</name>
+   </variable>
+   <variable>
+      <defaultValue>'128 GB'</defaultValue>
+      <description></description>
+      <id>edb9477b-3131-442a-9827-488827315f56</id>
+      <masked>false</masked>
+      <name>capacity</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>6594c143-07d2-4def-8967-e3cb16e9e4e1</id>
+      <masked>false</masked>
+      <name>targetIndex</name>
+   </variable>
+</TestCaseEntity>
