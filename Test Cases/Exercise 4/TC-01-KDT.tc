@@ -27,7 +27,7 @@
    <variableLinks>
       <testDataLinkId>01fbf8e0-5453-4bd0-972c-4e5351474bbb</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>URL</value>
+      <value>url</value>
       <variableId>fbe397d6-ce73-417d-bf38-6dbd4b7449fe</variableId>
    </variableLinks>
    <variableLinks>

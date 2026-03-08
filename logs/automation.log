@@ -2268,3 +2268,154 @@
 [03-06-2026 03:56:29 pm][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Suites_Exercise_4___CURA_20260306_155629.png
 [03-06-2026 03:56:29 pm][INFO] Attempting to close browser and terminate WebDriver session...
 [03-06-2026 03:56:29 pm][SUCCESS] Browser closed successfully.
+[03-07-2026 12:27:13 am][INFO] >>> Starting Test Case: Test Cases/Exercise 4/TC-01-KDT
+[03-07-2026 12:27:13 am][INFO] Mode: Web UI. Opening browser at: https://blazedemo.com/
+[03-07-2026 12:27:13 am][INFO] Open | https://blazedemo.com/
+[03-07-2026 12:27:19 am][SUCCESS] Browser opened and navigated to URL successfully.
+[03-07-2026 12:27:19 am][INFO] Wait | For element state 'Main Header'
+[03-07-2026 12:27:19 am][INFO] Select | City Dropdown: Philadelphia (Options: [value:Philadelphia])
+[03-07-2026 12:27:20 am][INFO] Select | City Dropdown: Rome (Options: [value:Rome])
+[03-07-2026 12:27:21 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002721.png
+[03-07-2026 12:27:21 am][INFO] Click | Find Flights Button
+[03-07-2026 12:27:23 am][SUCCESS] Successfully clicked | Find Flights Button
+[03-07-2026 12:27:23 am][INFO] Wait | For element state 'Flight ID 234'
+[03-07-2026 12:27:23 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002723.png
+[03-07-2026 12:27:23 am][INFO] Click | Choose This Flight Button
+[03-07-2026 12:27:25 am][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-07-2026 12:27:25 am][INFO] Wait | For element state 'Flight Details'
+[03-07-2026 12:27:25 am][INFO] Fill | Name = 'Punch'
+[03-07-2026 12:27:26 am][INFO] Fill | Address = '123 Test Street'
+[03-07-2026 12:27:27 am][INFO] Fill | City = 'Mandaluyong'
+[03-07-2026 12:27:28 am][INFO] Fill | State = 'NCR'
+[03-07-2026 12:27:28 am][INFO] Fill | Zipcode = '1122'
+[03-07-2026 12:27:29 am][INFO] Select | Card Type: American Express (Options: [label:American Express])
+[03-07-2026 12:27:30 am][INFO] Fill | Credit Card Number = '1234567890'
+[03-07-2026 12:27:30 am][INFO] Fill | Month = 'March'
+[03-07-2026 12:27:31 am][INFO] Fill | Year = '2030'
+[03-07-2026 12:27:32 am][INFO] Fill | Name on Card = 'Punch Monkey'
+[03-07-2026 12:27:33 am][INFO] Click | Remember Me
+[03-07-2026 12:27:34 am][SUCCESS] Successfully clicked | Remember Me
+[03-07-2026 12:27:34 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002734.png
+[03-07-2026 12:27:34 am][INFO] Click | Purchase Flight Button
+[03-07-2026 12:27:35 am][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-07-2026 12:27:35 am][INFO] Wait | For element state 'Confirmation Header'
+[03-07-2026 12:27:36 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002736.png
+[03-07-2026 12:27:54 am][INFO] Browser closed.
+[03-07-2026 12:27:54 am][INFO] <<< Finished Test Case: Test Cases/Exercise 4/TC-01-KDT
+[03-07-2026 12:27:54 am][INFO] >>> Starting Test Case: Test Cases/Exercise 4/TC-01-KDT
+[03-07-2026 12:27:54 am][INFO] Mode: Web UI. Opening browser at: https://blazedemo.com/
+[03-07-2026 12:27:54 am][INFO] Open | https://blazedemo.com/
+[03-07-2026 12:27:58 am][SUCCESS] Browser opened and navigated to URL successfully.
+[03-07-2026 12:27:58 am][INFO] Wait | For element state 'Main Header'
+[03-07-2026 12:27:59 am][INFO] Select | City Dropdown: Mexico City (Options: [value:Mexico City])
+[03-07-2026 12:28:00 am][INFO] Select | City Dropdown: Berlin (Options: [value:Berlin])
+[03-07-2026 12:28:00 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002800.png
+[03-07-2026 12:28:00 am][INFO] Click | Find Flights Button
+[03-07-2026 12:28:02 am][SUCCESS] Successfully clicked | Find Flights Button
+[03-07-2026 12:28:02 am][INFO] Wait | For element state 'Flight ID 234'
+[03-07-2026 12:28:02 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002802.png
+[03-07-2026 12:28:02 am][INFO] Click | Choose This Flight Button
+[03-07-2026 12:28:04 am][SUCCESS] Successfully clicked | Choose This Flight Button
+[03-07-2026 12:28:04 am][INFO] Wait | For element state 'Flight Details'
+[03-07-2026 12:28:04 am][INFO] Fill | Name = 'Bronny James'
+[03-07-2026 12:28:05 am][INFO] Fill | Address = '234 Test Street'
+[03-07-2026 12:28:06 am][INFO] Fill | City = 'Akron'
+[03-07-2026 12:28:07 am][INFO] Fill | State = 'Ohio'
+[03-07-2026 12:28:07 am][INFO] Fill | Zipcode = '1010'
+[03-07-2026 12:28:08 am][INFO] Select | Card Type: Diner's Club (Options: [label:Diner's Club])
+[03-07-2026 12:28:09 am][INFO] Fill | Credit Card Number = '34567890123'
+[03-07-2026 12:28:10 am][INFO] Fill | Month = 'February'
+[03-07-2026 12:28:10 am][INFO] Fill | Year = '2035'
+[03-07-2026 12:28:11 am][INFO] Fill | Name on Card = 'Bronny James'
+[03-07-2026 12:28:12 am][INFO] Click | Remember Me
+[03-07-2026 12:28:13 am][SUCCESS] Successfully clicked | Remember Me
+[03-07-2026 12:28:13 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002813.png
+[03-07-2026 12:28:13 am][INFO] Click | Purchase Flight Button
+[03-07-2026 12:28:14 am][SUCCESS] Successfully clicked | Purchase Flight Button
+[03-07-2026 12:28:14 am][INFO] Wait | For element state 'Confirmation Header'
+[03-07-2026 12:28:15 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_01_KDT_20260307_002815.png
+[03-07-2026 12:28:32 am][INFO] Browser closed.
+[03-07-2026 12:28:32 am][INFO] <<< Finished Test Case: Test Cases/Exercise 4/TC-01-KDT
+[03-07-2026 12:29:41 am][INFO] >>> Starting Test Case: Test Cases/Exercise 5/TC-14 Verify successful return of objects
+[03-07-2026 12:29:41 am][INFO] Mode: Web UI. Opening browser at: https://blazedemo.com/
+[03-07-2026 12:29:41 am][INFO] Open | https://blazedemo.com/
+[03-07-2026 12:29:42 am][INFO] Response Received:
+{
+    "error": "You\u2019ve reached the daily request limit for our public API (50 requests per day). Create a free account to increase your limits and unlock advanced features like private collections and more flexible endpoints!"
+}
+[03-07-2026 12:29:42 am][INFO] Browser closed.
+[03-07-2026 12:29:42 am][INFO] <<< Finished Test Case: Test Cases/Exercise 5/TC-14 Verify successful return of objects
+[03-07-2026 12:33:15 am][INFO] >>> Starting Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:33:15 am][INFO] Mode: Web UI. Opening browser at: https://blazedemo.com/
+[03-07-2026 12:33:15 am][INFO] Open | https://blazedemo.com/
+[03-07-2026 12:33:22 am][SUCCESS] Browser opened and navigated to URL successfully.
+[03-07-2026 12:33:22 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-07-2026 12:33:23 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-07-2026 12:33:23 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-07-2026 12:33:43 am][ERROR] Assert | Failed: 'We Care About Your Health subtitle' is NOT visible after 10 seconds
+[03-07-2026 12:33:54 am][INFO] >>> Starting Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:33:54 am][INFO] Mode: Web UI. Opening browser at: https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:33:54 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:34:00 am][SUCCESS] Browser opened and navigated to URL successfully.
+[03-07-2026 12:34:00 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-07-2026 12:34:02 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-07-2026 12:34:02 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-07-2026 12:34:03 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-07-2026 12:34:03 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-07-2026 12:34:04 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-07-2026 12:34:04 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-07-2026 12:34:04 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-07-2026 12:34:04 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-07-2026 12:34:05 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-07-2026 12:34:05 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-07-2026 12:34:06 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-07-2026 12:34:07 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260307_003406.png
+[03-07-2026 12:34:07 am][INFO] Click | Make Appointment Button
+[03-07-2026 12:34:08 am][SUCCESS] Successfully clicked | Make Appointment Button
+[03-07-2026 12:34:08 am][INFO] Fill | Username Field = 'John Doe'
+[03-07-2026 12:34:09 am][INFO] Fill | Password Field = 'ThisIsNotAPassword'
+[03-07-2026 12:34:10 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260307_003410.png
+[03-07-2026 12:34:10 am][INFO] Click | Login Button
+[03-07-2026 12:34:12 am][SUCCESS] Successfully clicked | Login Button
+[03-07-2026 12:34:12 am][INFO] Click | Hamburger
+[03-07-2026 12:34:13 am][SUCCESS] Successfully clicked | Hamburger
+[03-07-2026 12:34:13 am][INFO] Click | Logout
+[03-07-2026 12:34:15 am][SUCCESS] Successfully clicked | Logout
+[03-07-2026 12:34:15 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260307_003415.png
+[03-07-2026 12:34:15 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-07-2026 12:34:16 am][SUCCESS] Assert | Success: 'Cura Healthcare Service Header' is visible
+[03-07-2026 12:34:16 am][INFO] Assert | Waiting for 'We Care About Your Health subtitle' to be visible
+[03-07-2026 12:34:16 am][SUCCESS] Assert | Success: 'We Care About Your Health subtitle' is visible
+[03-07-2026 12:34:16 am][INFO] Scroll | Attempting to locate: Copyright © CURA Healthcare Service 2026 footer
+[03-07-2026 12:34:18 am][SUCCESS] Scroll | Success: reached Copyright © CURA Healthcare Service 2026 footer
+[03-07-2026 12:34:18 am][INFO] Assert | Waiting for 'Copyright © CURA Healthcare Service 2026 footer' to be visible
+[03-07-2026 12:34:18 am][SUCCESS] Assert | Success: 'Copyright © CURA Healthcare Service 2026 footer' is visible
+[03-07-2026 12:34:18 am][INFO] Assert | Waiting for 'Make Appointment Button' to be visible
+[03-07-2026 12:34:19 am][SUCCESS] Assert | Success: 'Make Appointment Button' is visible
+[03-07-2026 12:34:19 am][INFO] Scroll | Attempting to locate: Make Appointment Button
+[03-07-2026 12:34:20 am][SUCCESS] Scroll | Success: reached Make Appointment Button
+[03-07-2026 12:34:20 am][INFO] Screenshot captured: /Users/lian.alucema/Katalon Studio/Katalon_SampleProject/Screenshots/Test_Cases_Exercise_4_TC_04_KDT_20260307_003420.png
+[03-07-2026 12:34:35 am][INFO] Browser closed.
+[03-07-2026 12:34:35 am][INFO] <<< Finished Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:37:33 am][INFO] >>> Starting Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:37:33 am][INFO] Mode: Web UI. Opening browser at: https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:37:33 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:37:35 am][INFO] >>> Starting Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:37:35 am][INFO] Mode: Web UI. Opening browser at: https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:37:35 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:37:37 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-07-2026 12:37:37 am][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-07-2026 12:37:37 am][INFO] Browser closed.
+[03-07-2026 12:37:37 am][INFO] <<< Finished Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:37:39 am][SUCCESS] Browser opened and navigated to URL successfully.
+[03-07-2026 12:37:39 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-07-2026 12:37:48 am][INFO] >>> Starting Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:37:48 am][INFO] Mode: Web UI. Opening browser at: https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:37:48 am][INFO] Open | https://katalon-demo-cura.herokuapp.com/
+[03-07-2026 12:37:48 am][INFO] Assert | Waiting for 'Cura Healthcare Service Header' to be visible
+[03-07-2026 12:37:48 am][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-07-2026 12:37:48 am][INFO] Browser closed.
+[03-07-2026 12:37:48 am][INFO] <<< Finished Test Case: Test Cases/Exercise 4/TC-04-KDT
+[03-07-2026 12:37:49 am][ERROR] Assert | Failed: 'Cura Healthcare Service Header' is NOT visible after 10 seconds
+[03-07-2026 12:37:49 am][INFO] Browser closed.
+[03-07-2026 12:37:49 am][INFO] <<< Finished Test Case: Test Cases/Exercise 4/TC-04-KDT

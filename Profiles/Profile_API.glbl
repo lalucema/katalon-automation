@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>Cura_Profile</name>
+   <name>Profile_API</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://katalon-demo-cura.herokuapp.com/'</initValue>
+      <initValue>'https://api.restful-api.dev/objects'</initValue>
       <name>G_SiteURL</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'John Doe'</initValue>
-      <name>G_Username</name>
+      <initValue>'API'</initValue>
+      <name>G_TestType</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'ThisIsNotAPassword'</initValue>
-      <name>G_Password</name>
+      <initValue>''</initValue>
+      <name>G_ID</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>

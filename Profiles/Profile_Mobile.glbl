@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>API</name>
+   <name>Profile_Mobile</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://api.restful-api.dev/objects'</initValue>
-      <name>G_SiteURL</name>
+      <initValue>'Mobile'</initValue>
+      <name>G_TestType</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>''</initValue>
-      <name>G_ID</name>
+      <name>G_AppPath</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
